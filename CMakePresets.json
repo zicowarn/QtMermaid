@@ -1,0 +1,79 @@
+{
+  "version": 3,
+  "cmakeMinimumRequired": {
+    "major": 3,
+    "minor": 21,
+    "patch": 0
+  },
+  "configurePresets": [
+    {
+      "name": "variables-only",
+      "hidden": true,
+      "architecture": {
+        "value": "x64"
+      },
+      "toolset": {
+        "value": "host=x64"
+      },
+      "cacheVariables": {
+        "CMAKE_CXX_COMPILER": "cl.exe",
+        "Qt5_ROOT": "D:\\DevEnv\\Qt\\5.15.1\\msvc2019_64"
+      }
+    },
+    {
+      "name": "Debug",
+      "description": "Default build configuration",
+      "binaryDir": "${sourceDir}/build",
+      "inherits": "variables-only",
+      "generator": "Ninja",
+      "cacheVariables": {
+        "CMAKE_BUILD_TYPE": "Debug"
+      }
+    },
+    {
+      "name": "Release",
+      "description": "Default build configuration",
+      "binaryDir": "${sourceDir}/build",
+      "inherits": "variables-only",
+      "generator": "Ninja",
+      "cacheVariables": {
+        "CMAKE_BUILD_TYPE": "Release"
+      }
+    },
+    {
+      "name": "RelWithDebInfo",
+      "description": "Default build configuration",
+      "binaryDir": "${sourceDir}/build",
+      "inherits": "variables-only",
+      "generator": "Ninja",
+      "cacheVariables": {
+        "CMAKE_BUILD_TYPE": "RelWithDebInfo",
+        "CMAKE_CXX_FLAGS_RELWITHDEBINFO": "/O2 /Zi", // Forced use /Zi
+        "CMAKE_C_FLAGS_RELWITHDEBINFO": "/O2 /Zi"
+      }
+    }
+  ],
+  "buildPresets": [
+    {
+      "name": "Debug-Build",
+      "description": "",
+      "displayName": "Debug",
+      "configurePreset": "Debug",
+      "configuration": "Debug"
+    },
+    {
+      "name": "Release-Build",
+      "description": "",
+      "displayName": "Release",
+      "configurePreset": "Release",
+      "configuration": "Release"
+    },
+    {
+      "name": "RelWithDebInfo-Build",
+      "description": "",
+      "displayName": "RelWithDebInfo",
+      "configurePreset": "RelWithDebInfo",
+      "configuration": "RelWithDebInfo"
+    }
+  ]
+}

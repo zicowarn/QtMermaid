@@ -1,0 +1,8 @@
+/build
+/doc/output
+.vscode/settings.json
+CMakeUserPresets.json
+/modules/flow/build
+/modules/flow/install
+/modules/gantt/build
+/modules/gantt/install

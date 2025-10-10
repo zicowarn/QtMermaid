@@ -1,0 +1,22 @@
+Checks: >
+  -*,
+  clang-analyzer-*,
+  bugprone-*,
+  modernize-*,
+  readability-*,
+  performance-*,
+  portability-*,
+  -modernize-use-trailing-return-type
+
+WarningsAsErrors: ''
+HeaderFileExtensions: ['h','hh','hpp','hxx']
+ImplementationFileExtensions: ['c','cc','cpp','cxx']
+HeaderFilterRegex: '.*'   # Allows matching all header files
+FormatStyle: file
+CheckOptions:
+  - key:             modernize-use-nullptr.NullMacros
+    value:           'NULL'
+  - key:             modernize-use-nullptr.IgnoreMacros
+    value:           'false'
+ExtraArgs: 
+  - /EHsc
