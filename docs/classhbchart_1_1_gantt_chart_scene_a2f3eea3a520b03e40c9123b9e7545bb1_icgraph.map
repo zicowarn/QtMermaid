@@ -1,0 +1,7 @@
+<map id="hbchart::GanttChartScene::updateTitle" name="hbchart::GanttChartScene::updateTitle">
+<area shape="rect" id="Node000001" title="Update the title in the scene." alt="" coords="448,5,621,46"/>
+<area shape="rect" id="Node000002" href="$classhbchart_1_1_gantt_chart_scene.html#aa19d93f47aca070ef0d2293a9463046a" title="Set the model." alt="" coords="227,5,400,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="433,28,401,28,401,23,433,23"/>
+<area shape="rect" id="Node000003" href="$classhbchart_1_1_gantt_chart_scene.html#a76368fb9dac97ad6e982da3b9e4a5da6" title="Update the scene." alt="" coords="5,5,179,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="211,28,179,28,179,23,211,23"/>
+</map>

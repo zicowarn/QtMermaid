@@ -1,0 +1,9 @@
+<map id="hbchart::GanttChartShapeItem::GanttChartShapeItem" name="hbchart::GanttChartShapeItem::GanttChartShapeItem">
+<area shape="rect" id="Node000001" title="Constructor." alt="" coords="272,71,454,111"/>
+<area shape="rect" id="Node000002" href="$classhbchart_1_1_gantt_chart_item_milestone.html#a499f5b6e189d4f4f61b6f10f0b7da7b9" title="Constructor." alt="" coords="5,5,224,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="267,69,194,49,195,44,269,64"/>
+<area shape="rect" id="Node000003" href="$classhbchart_1_1_gantt_chart_item_section.html#a05d48bf04801f0c832393c3dea56cec0" title="Constructor." alt="" coords="11,71,218,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="256,94,218,94,218,88,256,88"/>
+<area shape="rect" id="Node000004" href="$classhbchart_1_1_gantt_chart_item_task.html#ac083d4ee820a40527f48efd1deffbbe6" title="Constructor." alt="" coords="19,136,210,177"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="269,118,195,138,194,133,267,113"/>
+</map>

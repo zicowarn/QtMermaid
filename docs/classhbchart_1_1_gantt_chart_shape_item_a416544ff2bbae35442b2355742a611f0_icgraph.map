@@ -1,0 +1,9 @@
+<map id="hbchart::GanttChartShapeItem::margin" name="hbchart::GanttChartShapeItem::margin">
+<area shape="rect" id="Node000001" title="Get margin." alt="" coords="272,71,445,111"/>
+<area shape="rect" id="Node000002" href="$classhbchart_1_1_gantt_chart_item_milestone.html#a242138f22f33781d0fb17b1346b2f3fa" title="Bounding rectangle." alt="" coords="5,5,224,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="265,69,193,49,194,44,266,64"/>
+<area shape="rect" id="Node000003" href="$classhbchart_1_1_gantt_chart_item_milestone.html#a997c21866c5d820ae3da22123d203798" title="Paint." alt="" coords="5,71,224,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="256,94,224,94,224,88,256,88"/>
+<area shape="rect" id="Node000004" href="$classhbchart_1_1_gantt_chart_shape_item.html#a2f1a3f419c66969cd705c976b5513865" title="Set margin." alt="" coords="28,136,201,177"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="266,118,194,138,193,133,265,113"/>
+</map>

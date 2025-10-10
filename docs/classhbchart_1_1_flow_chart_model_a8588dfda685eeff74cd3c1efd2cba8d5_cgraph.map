@@ -1,0 +1,10 @@
+<map id="hbchart::FlowChartModel::clear" name="hbchart::FlowChartModel::clear">
+<area shape="rect" id="Node000001" title="Clear the model." alt="" coords="5,29,173,70"/>
+<area shape="rect" id="Node000002" href="$classhbchart_1_1_flow_chart_model.html#aaf69cc3443795a171b4a799f931caaab" title="Signal emitted when data changes." alt="" coords="221,29,388,70"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="173,47,205,47,205,52,173,52"/>
+<area shape="rect" id="Node000003" href="$classhbchart_1_1_flow_chart_model.html#a533f8322b5b407d5e1f94bf40e78ece5" title="Constructor." alt="" coords="436,29,603,70"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="388,47,420,47,420,52,388,52"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="479,29,477,19,484,10,498,5,520,3,543,5,557,11,555,16,542,10,520,8,499,10,487,15,482,21,484,28"/>
+<area shape="rect" id="Node000004" href="$classhbchart_1_1_flow_chart_model.html#aca5865286cafbe11e33a6eba1c775c7d" title="Get the level." alt="" coords="651,29,819,70"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="604,47,635,47,635,52,604,52"/>
+</map>

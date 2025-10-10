@@ -1,0 +1,5 @@
+<map id="hbchart::GanttChartLayouter::updateInnerRect" name="hbchart::GanttChartLayouter::updateInnerRect">
+<area shape="rect" id="Node000001" title="Update the inner rect." alt="" coords="240,5,426,46"/>
+<area shape="rect" id="Node000002" href="$classhbchart_1_1_gantt_chart_layouter.html#a7dbf453e08949adddea638bf01f4b61e" title="Layout the chart. This method should be called after the model is set." alt="" coords="5,5,192,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="224,28,192,28,192,23,224,23"/>
+</map>

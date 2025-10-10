@@ -1,0 +1,10 @@
+<map id="hbchart::GanttChartScene::addTask" name="hbchart::GanttChartScene::addTask">
+<area shape="rect" id="Node000001" title="Add a task to the scene." alt="" coords="669,29,843,70"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="792,16,779,10,756,8,735,10,722,15,717,21,719,28,714,29,712,19,719,10,734,5,756,3,780,5,794,11"/>
+<area shape="rect" id="Node000002" href="$classhbchart_1_1_gantt_chart_scene.html#ac51558805c75acc6bed4d576134497c5" title="Update the tasks in the scene." alt="" coords="448,29,621,70"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="654,52,622,52,622,47,654,47"/>
+<area shape="rect" id="Node000003" href="$classhbchart_1_1_gantt_chart_scene.html#aa19d93f47aca070ef0d2293a9463046a" title="Set the model." alt="" coords="227,29,400,70"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="433,52,401,52,401,47,433,47"/>
+<area shape="rect" id="Node000004" href="$classhbchart_1_1_gantt_chart_scene.html#a76368fb9dac97ad6e982da3b9e4a5da6" title="Update the scene." alt="" coords="5,29,179,70"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="211,52,179,52,179,47,211,47"/>
+</map>

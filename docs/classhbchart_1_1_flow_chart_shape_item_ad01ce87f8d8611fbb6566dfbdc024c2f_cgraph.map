@@ -1,0 +1,5 @@
+<map id="hbchart::FlowChartShapeItem::setMargin" name="hbchart::FlowChartShapeItem::setMargin">
+<area shape="rect" id="Node000001" title="Set margin." alt="" coords="5,5,201,46"/>
+<area shape="rect" id="Node000002" href="$classhbchart_1_1_flow_chart_shape_item.html#a3906e2027d93b41857db7ebac96c9a74" title="Get margin." alt="" coords="249,5,444,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="201,23,233,23,233,28,201,28"/>
+</map>

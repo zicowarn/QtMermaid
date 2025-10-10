@@ -1,0 +1,11 @@
+<map id="hbchart::SyntaxHighlighter" name="hbchart::SyntaxHighlighter">
+<area shape="rect" id="Node000001" title="The interface for the QtMermaid Highlighter." alt="" coords="187,79,362,105"/>
+<area shape="rect" id="Node000003" href="$classhbchart_1_1_flow_highlighter.html" title="The FlowHighlighter class. ihnerits from SyntaxHighlighter." alt="" coords="5,153,168,178"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="229,113,119,155,118,150,227,108"/>
+<area shape="rect" id="Node000004" href="$classhbchart_1_1_gantt_highlighter.html" title="The GanttHighlighter class. ihnerits from SyntaxHighlighter." alt="" coords="191,153,358,178"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="277,120,277,152,272,152,272,120"/>
+<area shape="rect" id="Node000005" href="$classhbchart_1_1_qt_mermaid_highlighter.html" title="QtMermaidHighlighter class. Inherits from SyntaxHighlighter." alt="" coords="382,153,580,178"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="325,108,447,150,445,155,323,113"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="207,5,342,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="277,46,277,79,272,79,272,46"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="hbchart::FlowChartLabel::paint" name="hbchart::FlowChartLabel::paint">
+<area shape="rect" id="Node000001" title="Paint." alt="" coords="5,39,169,79"/>
+<area shape="rect" id="Node000002" href="$classhbchart_1_1_flow_chart_label.html#a90c49a516aacb07f0de419a0d1d9d103" title="Get text." alt="" coords="217,5,380,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="169,43,201,38,202,44,169,49"/>
+<area shape="rect" id="Node000003" href="$classhbchart_1_1_flow_chart_label.html#a5387d5ab9c69260f6d9415d468c28e87" title="Inner rectangle." alt="" coords="217,71,380,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="169,69,202,74,201,79,169,74"/>
+</map>

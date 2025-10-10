@@ -1,0 +1,16 @@
+<map id="hbchart::FlowChartModel::computeBarycenter" name="hbchart::FlowChartModel::computeBarycenter">
+<area shape="rect" id="Node000001" title=" " alt="" coords="911,63,1078,103"/>
+<area shape="rect" id="Node000002" href="$classhbchart_1_1_flow_chart_model.html#a21dccdb8bdda6daa005921b58e14881e" title="Optimize the layers of the nodes." alt="" coords="695,63,863,103"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="895,86,863,86,863,80,895,80"/>
+<area shape="poly" id="edge8_Node000002_Node000002" title=" " alt="" coords="814,49,801,44,779,41,759,43,746,48,741,54,743,61,738,63,736,53,743,44,757,38,779,36,802,38,816,45"/>
+<area shape="rect" id="Node000003" href="$classhbchart_1_1_flow_chart_model.html#a505c8410f910cb3e74da1f0a406728e3" title="Calculate the layers of the nodes." alt="" coords="480,63,647,103"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="680,86,648,86,648,80,680,80"/>
+<area shape="rect" id="Node000004" href="$classhbchart_1_1_flow_chart_layouter.html#ab056b77e92f7ef069a671d7292233703" title="Layout the flowchart subgraph." alt="" coords="243,29,425,70"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="464,71,425,66,426,60,465,66"/>
+<area shape="rect" id="Node000006" href="$classhbchart_1_1_flow_chart_layouter.html#ad8c962ed3fa90a9c8abec1285449754e" title="Precompute the bounds of the flowchart subgraph." alt="" coords="236,95,432,135"/>
+<area shape="poly" id="edge6_Node000003_Node000006" title=" " alt="" coords="465,99,433,104,432,99,464,94"/>
+<area shape="poly" id="edge5_Node000004_Node000004" title=" " alt="" coords="371,16,357,10,334,8,312,10,299,15,294,21,296,28,291,29,288,19,296,10,311,5,334,3,359,5,373,11"/>
+<area shape="rect" id="Node000005" href="$classhbchart_1_1_flow_chart_layouter.html#ad1b50bb41df7adc2e8db2b14facf9072" title="Apply the layout." alt="" coords="5,63,188,103"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="227,67,189,73,188,68,227,62"/>
+<area shape="poly" id="edge7_Node000006_Node000005" title=" " alt="" coords="220,102,188,98,189,93,220,97"/>
+</map>

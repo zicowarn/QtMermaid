@@ -1,0 +1,15 @@
+<map id="hbchart::QtMermaidEditor" name="hbchart::QtMermaidEditor">
+<area shape="rect" id="Node000001" title=" " alt="" coords="108,274,279,299"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,78,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="45,46,49,80,56,121,70,163,92,201,111,223,133,242,174,271,171,275,129,246,107,227,87,204,65,165,51,122,43,81,40,47"/>
+<area shape="rect" id="Node000005" href="$classhbchart_1_1_qt_mermaid_line_num_area.html" title="QtMermaidLineNumArea class, used to display line numbers." alt="" coords="63,80,278,106"/>
+<area shape="poly" id="edge5_Node000005_Node000002" title=" " alt="" coords="77,36,151,78,148,82,74,41"/>
+<area shape="rect" id="Node000003" href="$classhbchart_1_1_qt_mermaid_text_edit.html" title="Flowchart text editor." alt="" coords="101,177,286,203"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="196,218,196,273,191,273,191,218"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="201,162,203,146,200,131,183,108,188,105,205,129,208,146,206,162"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="302,80,410,106"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="341,120,324,139,303,155,277,169,249,179,247,174,274,164,300,151,320,135,337,117"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="102,116,86,131,82,142,86,152,99,165,116,174,113,179,96,169,82,154,77,142,82,129,99,112"/>
+<area shape="rect" id="Node000006" href="$classhbchart_1_1_qt_mermaid_type_detector.html" title=" " alt="" coords="310,177,525,203"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="376,211,223,276,221,271,374,207"/>
+</map>

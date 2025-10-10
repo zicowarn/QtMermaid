@@ -1,0 +1,11 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,55,140,80"/>
+<area shape="rect" id="Node000001" href="$classhbchart_1_1_syntax_highlighter.html" title="The interface for the QtMermaid Highlighter." alt="" coords="188,55,363,80"/>
+<area shape="poly" id="edge41_Node000000_Node000001" title=" " alt="" coords="155,65,187,65,187,70,155,70"/>
+<area shape="rect" id="Node000002" href="$classhbchart_1_1_flow_highlighter.html" title="The FlowHighlighter class. ihnerits from SyntaxHighlighter." alt="" coords="429,5,591,31"/>
+<area shape="poly" id="edge42_Node000001_Node000002" title=" " alt="" coords="355,48,445,29,446,34,356,53"/>
+<area shape="rect" id="Node000003" href="$classhbchart_1_1_gantt_highlighter.html" title="The GanttHighlighter class. ihnerits from SyntaxHighlighter." alt="" coords="427,55,593,80"/>
+<area shape="poly" id="edge43_Node000001_Node000003" title=" " alt="" coords="378,65,427,65,427,70,378,70"/>
+<area shape="rect" id="Node000004" href="$classhbchart_1_1_qt_mermaid_highlighter.html" title="QtMermaidHighlighter class. Inherits from SyntaxHighlighter." alt="" coords="411,104,609,130"/>
+<area shape="poly" id="edge44_Node000001_Node000004" title=" " alt="" coords="356,82,446,101,445,106,355,87"/>
+</map>

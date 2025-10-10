@@ -1,0 +1,7 @@
+<map id="hbchart::GanttChartModel::setTitle" name="hbchart::GanttChartModel::setTitle">
+<area shape="rect" id="Node000001" title="Set the title." alt="" coords="5,39,177,79"/>
+<area shape="rect" id="Node000002" href="$classhbchart_1_1_gantt_chart_model.html#a7e7532494caac49a09ec7abf83b9fab2" title="Data change signal." alt="" coords="225,5,401,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="177,43,209,39,209,44,177,49"/>
+<area shape="rect" id="Node000003" href="$classhbchart_1_1_gantt_chart_model.html#ad9e8e13394441b3cd539a3f04d2a1912" title="Get the title." alt="" coords="227,71,398,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="177,69,212,74,211,79,177,74"/>
+</map>

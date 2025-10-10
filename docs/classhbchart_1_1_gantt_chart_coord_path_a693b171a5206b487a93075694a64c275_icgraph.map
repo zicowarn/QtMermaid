@@ -1,0 +1,17 @@
+<map id="hbchart::GanttChartCoordPath::updateLabelRect" name="hbchart::GanttChartCoordPath::updateLabelRect">
+<area shape="rect" id="Node000001" title="Update the rect of the label." alt="" coords="508,168,679,209"/>
+<area shape="rect" id="Node000002" href="$classhbchart_1_1_gantt_chart_coord_path.html#ac27d758740ec5a253a8daf539020e355" title="Constructor." alt="" coords="278,37,460,78"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="555,160,510,126,459,93,432,81,435,76,461,89,513,121,558,156"/>
+<area shape="rect" id="Node000005" href="$classhbchart_1_1_gantt_chart_coord_path.html#acc316b8dfca05dccdf7dda9f7ac81a3b" title="Set the label format string." alt="" coords="283,103,454,143"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="506,166,441,147,442,141,508,161"/>
+<area shape="rect" id="Node000006" href="$classhbchart_1_1_gantt_chart_coord_path.html#a593ae84c09cd026063dad407b7b5f995" title="Set the font of the label." alt="" coords="283,168,454,209"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="493,191,455,191,455,186,493,186"/>
+<area shape="rect" id="Node000007" href="$classhbchart_1_1_gantt_chart_coord_path.html#a6170e7d04fcad62e7b7959c7c4c8487e" title="Set the margin of the label." alt="" coords="283,233,454,274"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="508,216,442,235,441,230,506,211"/>
+<area shape="rect" id="Node000008" href="$classhbchart_1_1_gantt_chart_coord_path.html#a3766636916e68b744b020e23f1c98c9e" title="Set the label position." alt="" coords="283,299,454,339"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="558,221,513,255,461,288,435,300,432,296,459,283,510,251,555,217"/>
+<area shape="rect" id="Node000003" href="$classhbchart_1_1_gantt_chart_coord_x.html#ae0c158844b74c4f6a56f51e654a964bc" title="Constructor." alt="" coords="32,5,203,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="262,47,203,39,204,34,263,41"/>
+<area shape="rect" id="Node000004" href="$classhbchart_1_1_gantt_chart_x_axis_grid_line.html#a17f6d49a5cc2a3274b3539c1c3fe8f2d" title="Constructor." alt="" coords="5,71,230,111"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="263,74,230,79,230,73,262,69"/>
+</map>

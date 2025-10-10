@@ -1,0 +1,11 @@
+<map id="hbchart::GanttChartModel::addTask" name="hbchart::GanttChartModel::addTask">
+<area shape="rect" id="Node000001" title="Add a task." alt="" coords="5,35,177,75"/>
+<area shape="rect" id="Node000002" href="$classhbchart_1_1_gantt_chart_model.html#a7e7532494caac49a09ec7abf83b9fab2" title="Data change signal." alt="" coords="225,5,401,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="177,41,209,37,209,42,177,46"/>
+<area shape="rect" id="Node000003" href="$namespacehbchart.html#aa6e7b4a0d395076c18342cbf6b9149e5" title=" " alt="" coords="246,70,380,96"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="177,63,231,70,230,75,177,68"/>
+<area shape="rect" id="Node000004" href="$namespacehbchart.html#afa3968d338edd70e84374d85a5321747" title="The ViewTimeUnit factory function." alt="" coords="449,41,606,66"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="380,71,433,64,434,69,380,77"/>
+<area shape="rect" id="Node000005" href="$structhbchart_1_1_time_unit_type.html#a5a00ca72474d85613ad5735b9c3bb5f1" title="Convert model to seconds." alt="" coords="451,91,604,131"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="380,89,436,96,435,102,380,94"/>
+</map>

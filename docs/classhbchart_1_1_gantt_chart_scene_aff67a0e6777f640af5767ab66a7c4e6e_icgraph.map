@@ -1,0 +1,5 @@
+<map id="hbchart::GanttChartScene::getViewUnitFormat" name="hbchart::GanttChartScene::getViewUnitFormat">
+<area shape="rect" id="Node000001" title="Get the view time unit format." alt="" coords="227,5,400,46"/>
+<area shape="rect" id="Node000002" href="$classhbchart_1_1_gantt_chart_scene.html#a9a446a7b3731ca00284c63e23c110598" title="Format the label." alt="" coords="5,5,179,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="211,28,179,28,179,23,211,23"/>
+</map>

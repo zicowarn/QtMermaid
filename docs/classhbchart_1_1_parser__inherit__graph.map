@@ -1,0 +1,7 @@
+<map id="hbchart::Parser" name="hbchart::Parser">
+<area shape="rect" id="Node000001" title="The interface for the QtMermaid Parser." alt="" coords="101,5,211,31"/>
+<area shape="rect" id="Node000002" href="$classhbchart_1_1_flow_parser.html" title="The FlowParser class. ihnerits from Parser." alt="" coords="5,79,144,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="132,43,90,81,86,77,129,39"/>
+<area shape="rect" id="Node000003" href="$classhbchart_1_1_gantt_parser.html" title="The GanttParser class. ihnerits from Parser." alt="" coords="167,79,310,105"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="183,39,226,77,223,81,180,44"/>
+</map>

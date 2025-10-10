@@ -1,0 +1,21 @@
+<map id="hbchart::GanttChartShapeItem::width" name="hbchart::GanttChartShapeItem::width">
+<area shape="rect" id="Node000001" title="Get width." alt="" coords="695,75,869,115"/>
+<area shape="poly" id="edge12_Node000001_Node000001" title=" " alt="" coords="818,62,805,56,782,53,761,55,748,60,743,66,745,73,740,75,738,65,745,56,760,50,782,48,806,50,820,57"/>
+<area shape="rect" id="Node000002" href="$classhbchart_1_1_gantt_chart_layouter.html#ac22499649129c89432048926560da808" title="Layout the milestone." alt="" coords="240,5,426,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="731,70,691,51,647,36,591,26,533,21,427,21,427,16,533,16,591,21,648,31,693,46,734,65"/>
+<area shape="rect" id="Node000004" href="$classhbchart_1_1_gantt_chart_layouter.html#aa8d93a7ac3b0b89b08a0176315711e34" title="Layout the task." alt="" coords="240,95,426,135"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="680,102,426,114,426,108,680,97"/>
+<area shape="rect" id="Node000005" href="$classhbchart_1_1_gantt_chart_shape_item.html#a64e130c426fe0fd9fb166b52395512fd" title="Set Rect." alt="" coords="474,160,647,201"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="714,124,617,162,615,157,712,119"/>
+<area shape="rect" id="Node000007" href="$classhbchart_1_1_gantt_chart_shape_item.html#ab691b50bd11f4a07f94796d8892635bb" title="Set X limits." alt="" coords="474,45,647,86"/>
+<area shape="poly" id="edge9_Node000001_Node000007" title=" " alt="" coords="680,84,648,80,648,75,680,79"/>
+<area shape="rect" id="Node000003" href="$classhbchart_1_1_gantt_chart_layouter.html#a7dbf453e08949adddea638bf01f4b61e" title="Layout the chart. This method should be called after the model is set." alt="" coords="5,95,192,135"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="260,54,241,61,152,97,150,92,239,57,258,49"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="224,118,192,118,192,112,224,112"/>
+<area shape="poly" id="edge5_Node000004_Node000004" title=" " alt="" coords="370,82,356,76,333,73,311,75,298,80,293,86,295,93,290,95,288,85,295,76,310,70,333,68,357,70,372,77"/>
+<area shape="rect" id="Node000006" href="$classhbchart_1_1_gantt_chart_layouter.html#af81897e43e980fc8e52e6fd4eaa94865" title="Layout the section." alt="" coords="240,160,426,201"/>
+<area shape="poly" id="edge7_Node000005_Node000006" title=" " alt="" coords="459,183,426,183,426,178,459,178"/>
+<area shape="poly" id="edge8_Node000006_Node000003" title=" " alt="" coords="242,158,174,139,175,133,244,153"/>
+<area shape="poly" id="edge10_Node000007_Node000002" title=" " alt="" coords="458,50,426,45,427,39,459,45"/>
+<area shape="poly" id="edge11_Node000007_Node000004" title=" " alt="" coords="459,90,427,97,426,92,458,85"/>
+</map>

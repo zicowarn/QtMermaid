@@ -1,0 +1,7 @@
+<map id="hbchart::GanttChartShapeItem::setRect" name="hbchart::GanttChartShapeItem::setRect">
+<area shape="rect" id="Node000001" title="Set Rect." alt="" coords="474,5,647,46"/>
+<area shape="rect" id="Node000002" href="$classhbchart_1_1_gantt_chart_layouter.html#af81897e43e980fc8e52e6fd4eaa94865" title="Layout the section." alt="" coords="240,5,426,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="459,28,426,28,426,23,459,23"/>
+<area shape="rect" id="Node000003" href="$classhbchart_1_1_gantt_chart_layouter.html#a7dbf453e08949adddea638bf01f4b61e" title="Layout the chart. This method should be called after the model is set." alt="" coords="5,5,192,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="224,28,192,28,192,23,224,23"/>
+</map>

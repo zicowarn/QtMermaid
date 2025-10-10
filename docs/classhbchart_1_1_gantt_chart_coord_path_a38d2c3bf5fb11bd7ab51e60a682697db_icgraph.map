@@ -1,0 +1,33 @@
+<map id="hbchart::GanttChartCoordPath::eventPathPropertyChanged" name="hbchart::GanttChartCoordPath::eventPathPropertyChanged">
+<area shape="rect" id="Node000001" title=" " alt="" coords="278,463,494,503"/>
+<area shape="rect" id="Node000002" href="$classhbchart_1_1_gantt_chart_coord_x.html#ae0c158844b74c4f6a56f51e654a964bc" title="Constructor." alt="" coords="32,5,203,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="379,448,368,368,343,264,324,209,298,155,267,105,228,61,202,44,205,40,231,57,271,102,303,153,329,207,348,262,374,367,385,447"/>
+<area shape="rect" id="Node000003" href="$classhbchart_1_1_gantt_chart_x_axis_grid_line.html#a17f6d49a5cc2a3274b3539c1c3fe8f2d" title="Constructor." alt="" coords="5,71,230,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="377,447,362,379,334,293,315,247,291,203,262,162,228,126,210,114,213,110,231,122,266,159,295,200,320,245,339,291,367,378,382,446"/>
+<area shape="rect" id="Node000004" href="$classhbchart_1_1_gantt_chart_coord_path.html#a5d3217f11297e14ad0f83ca953264e77" title="Set the axis arrow visible or not." alt="" coords="31,136,204,177"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="373,448,355,392,325,323,283,252,257,220,228,192,203,177,206,172,231,188,261,216,288,249,330,320,360,390,378,447"/>
+<area shape="rect" id="Node000005" href="$classhbchart_1_1_gantt_chart_x_axis_grid_line.html#a6171a6c4869205c4b919b528a52b6c84" title="Set the extend guide line or not." alt="" coords="20,201,215,242"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="368,450,346,406,315,354,276,302,228,257,207,245,210,240,231,253,280,298,320,351,351,403,373,448"/>
+<area shape="rect" id="Node000006" href="$classhbchart_1_1_gantt_chart_coord_path.html#ac34c859e5249599bda206261042754e5" title="Set the extend of the coordinate line to the left and right." alt="" coords="32,267,203,307"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="360,452,304,386,268,352,228,323,203,310,205,305,231,318,272,348,308,382,364,449"/>
+<area shape="rect" id="Node000007" href="$classhbchart_1_1_gantt_chart_coord_path.html#acc316b8dfca05dccdf7dda9f7ac81a3b" title="Set the label format string." alt="" coords="32,332,203,373"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="343,456,290,421,229,388,197,376,199,371,231,383,293,416,346,451"/>
+<area shape="rect" id="Node000008" href="$classhbchart_1_1_gantt_chart_coord_path.html#a593ae84c09cd026063dad407b7b5f995" title="Set the font of the label." alt="" coords="32,397,203,438"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="284,461,203,441,204,436,285,456"/>
+<area shape="rect" id="Node000009" href="$classhbchart_1_1_gantt_chart_coord_path.html#a6170e7d04fcad62e7b7959c7c4c8487e" title="Set the margin of the label." alt="" coords="32,463,203,503"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="262,486,204,486,204,480,262,480"/>
+<area shape="rect" id="Node000010" href="$classhbchart_1_1_gantt_chart_coord_path.html#a7c82ce28aa1ef439b37c95f59ff46568" title="Set the offset of the label." alt="" coords="32,528,203,569"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="285,510,204,530,203,525,284,505"/>
+<area shape="rect" id="Node000011" href="$classhbchart_1_1_gantt_chart_coord_path.html#ab3a749ab66c729b134695100685df8f9" title="Set the label position." alt="" coords="32,593,203,634"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="346,515,293,550,231,583,199,595,197,590,229,578,290,545,343,510"/>
+<area shape="rect" id="Node000012" href="$classhbchart_1_1_gantt_chart_coord_path.html#a7ae7a50a6e7d61ab9c59bcb231c36348" title="Set the color of the coordinate line." alt="" coords="32,659,203,699"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="364,517,308,584,272,618,231,648,205,661,203,656,228,643,268,614,304,580,360,514"/>
+<area shape="rect" id="Node000013" href="$classhbchart_1_1_gantt_chart_coord_path.html#ae82066268967d4fa4ca55d4b5f6023b7" title="Set the line style of the coordinate line." alt="" coords="32,724,203,765"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="373,518,351,563,320,615,280,668,231,713,205,728,202,723,228,709,276,664,315,612,346,560,368,516"/>
+<area shape="rect" id="Node000014" href="$classhbchart_1_1_gantt_chart_coord_path.html#a41dded0381475766823af5694cee608f" title="Set the line width of the coordinate line." alt="" coords="32,789,203,830"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="378,519,360,576,330,646,288,717,261,750,231,778,205,794,202,790,228,774,257,746,283,714,325,643,355,574,373,518"/>
+<area shape="rect" id="Node000015" href="$classhbchart_1_1_gantt_chart_coord_path.html#a3766636916e68b744b020e23f1c98c9e" title="Set the label position." alt="" coords="32,855,203,895"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="382,520,367,588,339,675,320,721,295,766,266,807,231,844,205,860,202,856,228,840,262,804,291,763,315,719,334,673,362,587,377,519"/>
+<area shape="rect" id="Node000016" href="$classhbchart_1_1_gantt_chart_coord_path.html#afc3841f8d22ba16eceb982298d9e26e8" title="Update the coordinate end points." alt="" coords="22,920,213,961"/>
+<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="385,519,374,599,348,704,329,759,303,813,271,864,231,909,214,922,211,917,228,905,267,861,298,811,324,757,343,702,368,598,379,518"/>
+</map>

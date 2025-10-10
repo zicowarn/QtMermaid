@@ -1,0 +1,5 @@
+<map id="hbchart::GanttChartItemTask::getLabel" name="hbchart::GanttChartItemTask::getLabel">
+<area shape="rect" id="Node000001" title="Get text." alt="" coords="244,5,434,46"/>
+<area shape="rect" id="Node000002" href="$classhbchart_1_1_gantt_chart_item_task.html#a2ada667564d34d147cbec41debd035b1" title="Paint." alt="" coords="5,5,196,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="228,28,196,28,196,23,228,23"/>
+</map>

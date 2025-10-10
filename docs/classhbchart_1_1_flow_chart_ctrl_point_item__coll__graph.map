@@ -1,0 +1,7 @@
+<map id="hbchart::FlowChartCtrlPointItem" name="hbchart::FlowChartCtrlPointItem">
+<area shape="rect" id="Node000001" title="FlowChartCtrlPointItem." alt="" coords="5,79,215,105"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="9,5,78,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="67,40,101,77,97,80,63,44"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="102,5,251,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="157,44,123,80,119,77,153,40"/>
+</map>

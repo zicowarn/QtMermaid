@@ -1,0 +1,7 @@
+<map id="hbchart::GanttChartItemMilestone::GanttChartItemMilestone" name="hbchart::GanttChartItemMilestone::GanttChartItemMilestone">
+<area shape="rect" id="Node000001" title="Constructor." alt="" coords="5,39,224,79"/>
+<area shape="rect" id="Node000002" href="$classhbchart_1_1_gantt_chart_shape_item.html#a05458c94dc9e37d924d5d9d8ae5f2f0b" title="Constructor." alt="" coords="290,5,472,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="224,43,274,36,275,42,225,48"/>
+<area shape="rect" id="Node000003" href="$classhbchart_1_1_gantt_chart_item_milestone.html#a0bc9622dde44202296b8bb056e29c0db" title="Adjust size to fit text." alt="" coords="272,71,490,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="225,70,256,73,256,79,224,75"/>
+</map>

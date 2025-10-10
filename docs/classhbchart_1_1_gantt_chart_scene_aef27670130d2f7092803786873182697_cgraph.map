@@ -1,0 +1,17 @@
+<map id="hbchart::GanttChartScene::addTask" name="hbchart::GanttChartScene::addTask">
+<area shape="rect" id="Node000001" title="Add a task to the scene." alt="" coords="5,163,179,203"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="50,163,48,153,55,144,70,138,92,136,116,138,130,145,128,150,115,144,92,141,71,143,58,148,53,154,55,161"/>
+<area shape="rect" id="Node000002" href="$classhbchart_1_1_gantt_chart_scene.html#afbd0c2772c7248b17b22745fed43671a" title="connect signals to an item" alt="" coords="227,72,400,113"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="142,160,247,116,249,121,145,165"/>
+<area shape="rect" id="Node000005" href="$classhbchart_1_1_gantt_chart_scene.html#a65fa61e0ef82703d09fb60a3adcd7c54" title="Get time scale." alt="" coords="454,136,628,177"/>
+<area shape="poly" id="edge7_Node000001_Node000005" title=" " alt="" coords="179,175,439,160,439,165,179,181"/>
+<area shape="rect" id="Node000006" href="$structhbchart_1_1_time_unit_type.html#a6fbc526a2a1747b448e0bd56207ab57a" title="Convert seconds to model." alt="" coords="237,191,390,231"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="179,191,221,197,221,202,179,197"/>
+<area shape="rect" id="Node000007" href="$structhbchart_1_1_time_scene_ratio.html#a1a33a553eecd6ee6b5f736e02c68f796" title="Convert time to scene units." alt="" coords="229,256,398,297"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="139,201,228,241,244,247,242,252,226,245,137,206"/>
+<area shape="rect" id="Node000003" href="$classhbchart_1_1_gantt_chart_shape_item.html#a4730d31e31b916c0086d2a5372d53581" title="Position changed signal." alt="" coords="448,5,634,46"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="385,69,454,48,455,54,386,74"/>
+<area shape="rect" id="Node000004" href="$structhbchart_1_1_time_scene_ratio.html#ab87076d0ca681c3d358ee125c38a12f2" title="Convert scene units to time." alt="" coords="456,71,626,111"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="400,89,441,89,441,94,400,94"/>
+<area shape="poly" id="edge5_Node000002_Node000005" title=" " alt="" coords="389,111,453,129,451,134,388,116"/>
+</map>

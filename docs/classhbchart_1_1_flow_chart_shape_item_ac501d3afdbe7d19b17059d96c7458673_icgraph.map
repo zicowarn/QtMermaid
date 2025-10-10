@@ -1,0 +1,15 @@
+<map id="hbchart::FlowChartShapeItem::innerRect" name="hbchart::FlowChartShapeItem::innerRect">
+<area shape="rect" id="Node000001" title="Inner rectangle." alt="" coords="976,39,1171,79"/>
+<area shape="rect" id="Node000002" href="$classhbchart_1_1_flow_chart_shape_item.html#a0c1334afff5b35bd557c7c8c4e52b6cd" title="Bounding rectangle." alt="" coords="732,39,928,79"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="960,62,928,62,928,56,960,56"/>
+<area shape="rect" id="Node000003" href="$classhbchart_1_1_flow_chart_connector.html#aef41973c2bd754a16959b2c732e169fd" title="Calculate the control points of the connection line." alt="" coords="490,5,683,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="716,46,683,42,684,36,717,41"/>
+<area shape="rect" id="Node000006" href="$classhbchart_1_1_flow_chart_shape_item.html#a95847febc38847fc011d70aeb7cc902f" title="Outer boundary." alt="" coords="489,71,684,111"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="717,77,685,81,684,76,716,71"/>
+<area shape="rect" id="Node000004" href="$classhbchart_1_1_flow_chart_connector.html#abca3b3ec865c24b393dff92d92917f04" title="Render all connection lines." alt="" coords="247,5,440,46"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="475,28,440,28,440,23,475,23"/>
+<area shape="rect" id="Node000005" href="$classhbchart_1_1_flow_chart_connector.html#a203b1e12ef5223b261ccb2abe13fc5f8" title="Draw all connection lines." alt="" coords="5,5,198,46"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="232,28,198,28,198,23,232,23"/>
+<area shape="rect" id="Node000007" href="$classhbchart_1_1_flow_chart_shape_item.html#a6539ab29a395e38e17cb0a69f81114f3" title="Extended rectangle." alt="" coords="246,71,441,111"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="473,94,441,94,441,88,473,88"/>
+</map>

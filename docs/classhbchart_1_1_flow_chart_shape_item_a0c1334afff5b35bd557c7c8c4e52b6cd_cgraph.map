@@ -1,0 +1,5 @@
+<map id="hbchart::FlowChartShapeItem::boundingRect" name="hbchart::FlowChartShapeItem::boundingRect">
+<area shape="rect" id="Node000001" title="Bounding rectangle." alt="" coords="5,5,201,46"/>
+<area shape="rect" id="Node000002" href="$classhbchart_1_1_flow_chart_shape_item.html#ac501d3afdbe7d19b17059d96c7458673" title="Inner rectangle." alt="" coords="249,5,444,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="201,23,233,23,233,28,201,28"/>
+</map>

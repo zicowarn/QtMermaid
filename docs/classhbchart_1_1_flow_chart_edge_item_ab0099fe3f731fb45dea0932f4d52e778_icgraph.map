@@ -1,0 +1,9 @@
+<map id="hbchart::FlowChartEdgeItem::getSource" name="hbchart::FlowChartEdgeItem::getSource">
+<area shape="rect" id="Node000001" title="Get the source node." alt="" coords="726,5,915,46"/>
+<area shape="rect" id="Node000002" href="$classhbchart_1_1_flow_chart_connector.html#aef41973c2bd754a16959b2c732e169fd" title="Calculate the control points of the connection line." alt="" coords="486,5,678,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="710,28,679,28,679,23,710,23"/>
+<area shape="rect" id="Node000003" href="$classhbchart_1_1_flow_chart_connector.html#abca3b3ec865c24b393dff92d92917f04" title="Render all connection lines." alt="" coords="246,5,438,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="471,28,438,28,438,23,471,23"/>
+<area shape="rect" id="Node000004" href="$classhbchart_1_1_flow_chart_connector.html#a203b1e12ef5223b261ccb2abe13fc5f8" title="Draw all connection lines." alt="" coords="5,5,198,46"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="230,28,198,28,198,23,230,23"/>
+</map>

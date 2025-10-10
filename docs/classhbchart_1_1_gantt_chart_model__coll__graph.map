@@ -1,0 +1,9 @@
+<map id="hbchart::GanttChartModel" name="hbchart::GanttChartModel">
+<area shape="rect" id="Node000001" title="The GanttChartModel class." alt="" coords="78,102,250,128"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,75,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="69,38,150,99,146,104,66,43"/>
+<area shape="rect" id="Node000003" href="$structhbchart_1_1_gantt_title.html" title="GanttChart Title." alt="" coords="99,5,229,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="167,46,167,101,161,101,161,46"/>
+<area shape="rect" id="Node000004" href="$structhbchart_1_1_time_unit_type.html" title="The TimeUnitType struct." alt="" coords="253,5,406,31"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="296,41,187,104,184,99,294,37"/>
+</map>

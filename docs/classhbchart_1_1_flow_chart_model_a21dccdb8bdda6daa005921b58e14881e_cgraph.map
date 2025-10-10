@@ -1,0 +1,18 @@
+<map id="hbchart::FlowChartModel::optimizeByBarycenter" name="hbchart::FlowChartModel::optimizeByBarycenter">
+<area shape="rect" id="Node000001" title="Optimize the layers of the nodes." alt="" coords="5,87,173,127"/>
+<area shape="poly" id="edge10_Node000001_Node000001" title=" " alt="" coords="48,87,46,77,53,68,67,62,89,60,112,62,126,69,124,73,111,68,89,65,69,67,56,72,51,78,53,85"/>
+<area shape="rect" id="Node000002" href="$classhbchart_1_1_flow_chart_model.html#acb807aa9c7f7493cc63d99b43f8b1c63" title=" " alt="" coords="221,29,388,70"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="167,84,210,72,211,77,168,89"/>
+<area shape="rect" id="Node000003" href="$classhbchart_1_1_flow_chart_model.html#a10132df45ead0ee5cd5cae2927c144eb" title=" " alt="" coords="436,72,603,113"/>
+<area shape="poly" id="edge9_Node000001_Node000003" title=" " alt="" coords="173,102,420,93,420,98,173,107"/>
+<area shape="rect" id="Node000006" href="$classhbchart_1_1_flow_chart_model.html#a3e1b2f9ab95810c028eb0f4f3c42310b" title=" " alt="" coords="436,137,603,178"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="173,114,421,143,420,149,173,119"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="264,29,262,19,268,10,283,5,304,3,328,5,342,11,339,16,326,10,304,8,284,10,271,15,267,21,269,28"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="389,64,421,70,420,75,388,69"/>
+<area shape="rect" id="Node000004" href="$classhbchart_1_1_flow_chart_model.html#afed89fec3c87b800e8e78c7953694854" title=" " alt="" coords="651,72,819,113"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="604,90,635,90,635,95,604,95"/>
+<area shape="rect" id="Node000005" href="$classhbchart_1_1_flow_chart_model.html#a8de7a3dade03f4a6ec1c66c9fe615b5c" title="Find the layer index of a node." alt="" coords="651,137,819,178"/>
+<area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="590,111,651,130,650,135,588,116"/>
+<area shape="poly" id="edge7_Node000006_Node000004" title=" " alt="" coords="588,134,650,115,651,120,590,139"/>
+<area shape="poly" id="edge8_Node000006_Node000005" title=" " alt="" coords="604,155,635,155,635,160,604,160"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="hbchart::FlowChartShapeItem::outerRect" name="hbchart::FlowChartShapeItem::outerRect">
+<area shape="rect" id="Node000001" title="Outer boundary." alt="" coords="5,5,201,46"/>
+<area shape="rect" id="Node000002" href="$classhbchart_1_1_flow_chart_shape_item.html#a0c1334afff5b35bd557c7c8c4e52b6cd" title="Bounding rectangle." alt="" coords="249,5,444,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="201,23,233,23,233,28,201,28"/>
+<area shape="rect" id="Node000003" href="$classhbchart_1_1_flow_chart_shape_item.html#ac501d3afdbe7d19b17059d96c7458673" title="Inner rectangle." alt="" coords="492,5,687,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="445,23,477,23,477,28,445,28"/>
+</map>

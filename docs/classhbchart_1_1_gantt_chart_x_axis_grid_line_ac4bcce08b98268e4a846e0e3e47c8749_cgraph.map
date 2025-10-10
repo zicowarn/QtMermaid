@@ -1,0 +1,5 @@
+<map id="hbchart::GanttChartXAxisGridLine::updatePath" name="hbchart::GanttChartXAxisGridLine::updatePath">
+<area shape="rect" id="Node000001" title="update the connection line path" alt="" coords="5,5,177,46"/>
+<area shape="rect" id="Node000002" href="$classhbchart_1_1_gantt_chart_x_axis_grid_line.html#a8cfd2404197ef2774a89ed06f2555825" title="Update the bounding rect of the coordinate line." alt="" coords="225,5,423,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="177,23,209,23,209,28,177,28"/>
+</map>

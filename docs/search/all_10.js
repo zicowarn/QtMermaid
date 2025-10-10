@@ -1,0 +1,24 @@
+var searchData=
+[
+  ['rect_0',['RECT',['../namespacehbchart.html#ab1815d8e212d733db023f4f6143b691fa1e946ce1b277d51ede97ffba9c3f1505',1,'hbchart']]],
+  ['registercore_1',['registerCore',['../classhbchart_1_1_core_factory.html#afb8d58dfb51b01281a6b72706c591f36',1,'hbchart::CoreFactory']]],
+  ['registerhighlighter_2',['registerHighlighter',['../classhbchart_1_1_highlighter_factory.html#a309e48ad43fbe198232fee5b650356b3',1,'hbchart::HighlighterFactory']]],
+  ['registerparser_3',['registerParser',['../classhbchart_1_1_parser_factory.html#a0b6995c4c54d0d44940bdc14fb207b78',1,'hbchart::ParserFactory']]],
+  ['registerrenderer_4',['registerRenderer',['../classhbchart_1_1_renderer_factory.html#a978ace7584bc968159455bd74847cb9d',1,'hbchart::RendererFactory']]],
+  ['registry_5',['registry',['../classhbchart_1_1_highlighter_factory.html#ae5060242113a6c9d5463bd9b15e32fee',1,'hbchart::HighlighterFactory']]],
+  ['regular_6',['REGULAR',['../namespacehbchart.html#afb17f736915268e4d55436c9af6935a9a820ead78f0fa32544c7ba38fe7ff53d9',1,'hbchart']]],
+  ['regularsize_7',['regularSize',['../structhbchart_1_1_layer_size.html#aaef3ac3d5e441a32122cfb847ce4cc66',1,'hbchart::LayerSize']]],
+  ['render_8',['render',['../classhbchart_1_1_flow_renderer.html#a049f1b9ff0150fd2038812596a7664bc',1,'hbchart::FlowRenderer::render()'],['../classhbchart_1_1_gantt_renderer.html#a768ad3c6595e53497f495db92240d256',1,'hbchart::GanttRenderer::render()'],['../classhbchart_1_1_renderer.html#a19e118b94fd322514c0d949a44870e5f',1,'hbchart::Renderer::render()']]],
+  ['renderedges_9',['renderEdges',['../classhbchart_1_1_flow_chart_connector.html#abca3b3ec865c24b393dff92d92917f04',1,'hbchart::FlowChartConnector']]],
+  ['renderer_10',['Renderer',['../classhbchart_1_1_renderer.html',1,'hbchart']]],
+  ['rendererfactory_11',['RendererFactory',['../classhbchart_1_1_renderer_factory.html',1,'hbchart']]],
+  ['rendererfactoryregistry_12',['RendererFactoryRegistry',['../namespacehbchart.html#af3f6c284add2aef6825ea81bab31d1ec',1,'hbchart']]],
+  ['resetcoordinate_13',['resetCoordinate',['../classhbchart_1_1_gantt_chart_coordinate.html#a4cca9a1a86244f4d3bb039151e3e7adf',1,'hbchart::GanttChartCoordinate']]],
+  ['resizeevent_14',['resizeEvent',['../classhbchart_1_1_qt_mermaid_text_edit.html#a7d2b660da85be76e3264b3b0fa00f749',1,'hbchart::QtMermaidTextEdit']]],
+  ['right_15',['RIGHT',['../namespacehbchart.html#a2b5d2d786fa737aa3cdfb85e70cdf7e5a21507b40c80068eda19865706fdc2403',1,'hbchart']]],
+  ['rounded_5frect_16',['ROUNDED_RECT',['../namespacehbchart.html#ab1815d8e212d733db023f4f6143b691fa59cb0f4406cd7bfc96e0a1391f7b1f9f',1,'hbchart']]],
+  ['rowheight_17',['RowHeight',['../namespacehbchart.html#ab6cc56032d72962fb8924a1eaf6504f3',1,'hbchart']]],
+  ['rowheight_18',['rowHeight',['../classhbchart_1_1_gantt_chart_scene.html#a9d354ddb59ebf2782eb80f327f8ebdb0',1,'hbchart::GanttChartScene']]],
+  ['rowmargin_19',['rowMargin',['../classhbchart_1_1_gantt_chart_scene.html#ac6464d084fa7e0a6ba7ffc42524b0a2f',1,'hbchart::GanttChartScene']]],
+  ['rowwidth_20',['RowWidth',['../namespacehbchart.html#a2e662b4adcc87282078294b95cdd356e',1,'hbchart']]]
+];

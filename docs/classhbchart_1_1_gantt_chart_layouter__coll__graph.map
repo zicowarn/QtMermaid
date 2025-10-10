@@ -1,0 +1,23 @@
+<map id="hbchart::GanttChartLayouter" name="hbchart::GanttChartLayouter">
+<area shape="rect" id="Node000001" title="The GanttChartLayouter class." alt="" coords="930,52,1117,78"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="47,5,117,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="132,16,424,22,822,40,930,50,930,55,821,45,424,28,132,21"/>
+<area shape="rect" id="Node000003" href="$classhbchart_1_1_gantt_chart_model.html" title="The GanttChartModel class." alt="" coords="310,68,481,94"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="132,24,286,54,336,65,334,70,285,59,131,30"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="496,76,930,65,930,70,496,81"/>
+<area shape="rect" id="Node000006" href="$classhbchart_1_1_gantt_chart_scene.html" title="GanttChart scene." alt="" coords="648,139,821,164"/>
+<area shape="poly" id="edge9_Node000006_Node000003" title=" " alt="" coords="467,95,506,104,662,135,661,141,504,109,466,100"/>
+<area shape="rect" id="Node000004" href="$structhbchart_1_1_gantt_title.html" title="GanttChart Title." alt="" coords="17,68,147,94"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="162,78,309,78,309,84,162,84"/>
+<area shape="rect" id="Node000005" href="$structhbchart_1_1_time_unit_type.html" title="The TimeUnitType struct." alt="" coords="5,121,159,147"/>
+<area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="174,123,285,107,347,92,349,97,286,112,175,128"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="806,132,906,104,987,76,988,81,907,109,807,137"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="335,136,456,162"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="471,147,647,148,647,153,471,152"/>
+<area shape="rect" id="Node000008" href="$structhbchart_1_1_time_scene_ratio.html" title="TimeSceneRatio." alt="" coords="311,185,480,211"/>
+<area shape="poly" id="edge8_Node000006_Node000008" title=" " alt="" coords="495,190,624,176,685,162,686,168,624,181,496,196"/>
+<area shape="rect" id="Node000009" href="$classhbchart_1_1_gantt_chart_label.html" title="GanttChart rounded rectangle shape." alt="" coords="312,237,479,263"/>
+<area shape="poly" id="edge10_Node000006_Node000009" title=" " alt="" coords="494,244,558,235,623,217,675,191,716,163,719,167,678,196,625,222,559,240,494,249"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="21,237,143,263"/>
+<area shape="poly" id="edge11_Node000009_Node000010" title=" " alt="" coords="158,248,311,248,311,253,158,253"/>
+</map>

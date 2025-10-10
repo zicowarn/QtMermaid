@@ -1,0 +1,47 @@
+<map id="hbchart::GanttChartScene::updateSceneItems" name="hbchart::GanttChartScene::updateSceneItems">
+<area shape="rect" id="Node000001" title="Set the model." alt="" coords="5,225,179,266"/>
+<area shape="rect" id="Node000002" href="$classhbchart_1_1_gantt_chart_scene.html#aa4ac1cabd1149a48fb2393618ba53c6f" title=" " alt="" coords="227,17,405,58"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="102,223,149,149,184,106,225,69,233,64,236,68,228,73,188,110,153,152,106,226"/>
+<area shape="rect" id="Node000003" href="$classhbchart_1_1_gantt_chart_scene.html#a70bde1d25fe986410edf4fd1c6193389" title="Update the milestones in the scene." alt="" coords="229,83,402,123"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="117,223,167,186,225,146,256,129,259,133,228,151,170,190,121,227"/>
+<area shape="rect" id="Node000010" href="$classhbchart_1_1_gantt_chart_scene.html#a46d6a0b0e4d14bab7a30306596e56639" title="Update the time range in scene units." alt="" coords="453,291,626,331"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="174,264,227,275,336,290,438,301,437,306,335,296,226,280,173,269"/>
+<area shape="rect" id="Node000012" href="$classhbchart_1_1_gantt_chart_scene.html#a9ee1d0ff2adbc1b32e225bc3b96f1d0c" title="Update the sections in the scene." alt="" coords="229,225,402,266"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="179,243,214,243,214,248,179,248"/>
+<area shape="rect" id="Node000014" href="$classhbchart_1_1_gantt_chart_scene.html#ac51558805c75acc6bed4d576134497c5" title="Update the tasks in the scene." alt="" coords="229,160,402,201"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="163,222,228,203,230,208,165,227"/>
+<area shape="rect" id="Node000017" href="$classhbchart_1_1_gantt_chart_scene.html#ab302403efc86d3e2e1003ce35826d514" title="Update the scene_per_time ratio." alt="" coords="229,345,402,386"/>
+<area shape="poly" id="edge21_Node000001_Node000017" title=" " alt="" coords="129,264,228,321,257,336,255,340,225,325,126,269"/>
+<area shape="rect" id="Node000019" href="$classhbchart_1_1_gantt_chart_scene.html#a2f3eea3a520b03e40c9123b9e7545bb1" title="Update the title in the scene." alt="" coords="229,419,402,459"/>
+<area shape="poly" id="edge24_Node000001_Node000019" title=" " alt="" coords="109,265,158,328,191,363,228,396,249,409,246,413,225,400,188,367,154,331,105,268"/>
+<area shape="rect" id="Node000004" href="$classhbchart_1_1_gantt_chart_scene.html#a7ca713dae72e15fe2846a5bdbb382d15" title="Add a milestone to the scene." alt="" coords="453,5,626,46"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="376,80,463,49,465,54,378,85"/>
+<area shape="rect" id="Node000009" href="$classhbchart_1_1_gantt_chart_scene.html#a60d8492f48900ebd0f7b30511b34b57a" title="Disconnect signals from an." alt="" coords="453,71,626,111"/>
+<area shape="poly" id="edge8_Node000003_Node000009" title=" " alt="" coords="403,96,437,94,438,99,403,101"/>
+<area shape="rect" id="Node000005" href="$classhbchart_1_1_gantt_chart_scene.html#afbd0c2772c7248b17b22745fed43671a" title="connect signals to an item" alt="" coords="674,67,848,107"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="616,44,671,59,670,65,615,49"/>
+<area shape="rect" id="Node000006" href="$classhbchart_1_1_gantt_chart_shape_item.html#a4730d31e31b916c0086d2a5372d53581" title="Position changed signal." alt="" coords="896,81,1082,122"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="848,90,880,92,880,97,848,95"/>
+<area shape="rect" id="Node000007" href="$structhbchart_1_1_time_scene_ratio.html#ab87076d0ca681c3d358ee125c38a12f2" title="Convert scene units to time." alt="" coords="904,16,1074,57"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="848,65,889,56,890,61,849,70"/>
+<area shape="rect" id="Node000008" href="$classhbchart_1_1_gantt_chart_scene.html#a65fa61e0ef82703d09fb60a3adcd7c54" title="Get time scale." alt="" coords="902,161,1076,202"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="818,105,849,118,928,152,926,157,847,123,816,110"/>
+<area shape="rect" id="Node000011" href="$structhbchart_1_1_time_unit_type.html#a6fbc526a2a1747b448e0bd56207ab57a" title="Convert seconds to model." alt="" coords="684,291,838,331"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="627,308,668,308,668,314,627,314"/>
+<area shape="rect" id="Node000013" href="$classhbchart_1_1_gantt_chart_scene.html#acee6ec603950c3895c241b7b69c72816" title="Add a section to the scene." alt="" coords="453,225,626,266"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="403,243,438,243,438,248,403,248"/>
+<area shape="poly" id="edge20_Node000014_Node000009" title=" " alt="" coords="366,157,452,122,470,115,472,120,454,127,368,162"/>
+<area shape="rect" id="Node000015" href="$classhbchart_1_1_gantt_chart_scene.html#aef27670130d2f7092803786873182697" title="Add a task to the scene." alt="" coords="453,160,626,201"/>
+<area shape="poly" id="edge14_Node000014_Node000015" title=" " alt="" coords="403,178,438,178,438,183,403,183"/>
+<area shape="poly" id="edge16_Node000015_Node000005" title=" " alt="" coords="585,157,673,118,690,111,692,116,675,123,587,162"/>
+<area shape="poly" id="edge18_Node000015_Node000008" title=" " alt="" coords="627,181,674,182,848,182,886,181,887,186,848,187,674,187,627,186"/>
+<area shape="poly" id="edge17_Node000015_Node000011" title=" " alt="" coords="601,199,628,211,680,244,725,279,722,283,677,249,625,216,599,204"/>
+<area shape="poly" id="edge15_Node000015_Node000015" title=" " alt="" coords="498,160,496,150,503,141,517,135,540,133,564,136,578,142,576,147,562,141,540,139,519,141,506,145,501,151,503,159"/>
+<area shape="rect" id="Node000016" href="$structhbchart_1_1_time_scene_ratio.html#a1a33a553eecd6ee6b5f736e02c68f796" title="Convert time to scene units." alt="" coords="676,132,846,173"/>
+<area shape="poly" id="edge19_Node000015_Node000016" title=" " alt="" coords="626,167,661,162,661,168,627,172"/>
+<area shape="rect" id="Node000018" href="$classhbchart_1_1_gantt_chart_scene.html#a049f770ec7b7972f1bd01ade724aba74" title="Get the max duration in scene units." alt="" coords="453,356,626,397"/>
+<area shape="poly" id="edge22_Node000017_Node000018" title=" " alt="" coords="403,367,438,369,437,374,403,372"/>
+<area shape="poly" id="edge23_Node000018_Node000011" title=" " alt="" coords="610,353,674,334,676,339,612,358"/>
+<area shape="rect" id="Node000020" href="$classhbchart_1_1_gantt_chart_scene.html#a07aa41325c1831b7907fa37771974915" title="Add a title to the scene." alt="" coords="453,421,626,462"/>
+<area shape="poly" id="edge25_Node000019_Node000020" title=" " alt="" coords="403,437,438,438,437,443,403,443"/>
+</map>

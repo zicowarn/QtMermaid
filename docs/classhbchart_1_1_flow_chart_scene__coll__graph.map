@@ -1,0 +1,16 @@
+<map id="hbchart::FlowChartScene" name="hbchart::FlowChartScene">
+<area shape="rect" id="Node000001" title="Flowchart scene." alt="" coords="149,199,318,224"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,102,126,128"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="102,133,213,196,211,200,99,138"/>
+<area shape="rect" id="Node000003" href="$classhbchart_1_1_flow_chart_model.html" title="The FlowChartModel class." alt="" coords="150,102,317,128"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="236,143,236,198,231,198,231,143"/>
+<area shape="poly" id="edge5_Node000003_Node000003" title=" " alt="" coords="334,107,344,115,336,123,318,126,317,121,333,118,339,115,331,111"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="138,5,207,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="190,43,228,100,223,103,186,46"/>
+<area shape="rect" id="Node000005" href="$structhbchart_1_1_flow_title.html" title="GanttChart Title." alt="" coords="231,5,356,31"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="280,46,243,103,239,100,276,43"/>
+<area shape="rect" id="Node000006" href="$classhbchart_1_1_flow_chart_label.html" title="FlowChart rounded rectangle shape." alt="" coords="462,102,626,128"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="490,135,274,201,273,196,489,130"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="484,5,605,31"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="547,46,547,101,542,101,542,46"/>
+</map>

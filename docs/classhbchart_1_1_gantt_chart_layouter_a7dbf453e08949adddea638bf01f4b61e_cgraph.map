@@ -1,0 +1,47 @@
+<map id="hbchart::GanttChartLayouter::apply" name="hbchart::GanttChartLayouter::apply">
+<area shape="rect" id="Node000001" title="Layout the chart. This method should be called after the model is set." alt="" coords="5,259,192,299"/>
+<area shape="rect" id="Node000002" href="$classhbchart_1_1_gantt_chart_layouter.html#a7ddefa061e2c9f9e102eef7faecfe636" title="Layout changed signal." alt="" coords="240,5,426,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="105,257,123,216,152,162,190,106,238,57,245,52,248,56,241,61,194,109,156,165,128,218,110,259"/>
+<area shape="rect" id="Node000003" href="$classhbchart_1_1_gantt_chart_layouter.html#a9ef7befb8ae9f909a2088f315f85e97d" title="Get the scene bounding rect. bouding rect + safety margin." alt="" coords="240,71,426,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="111,257,162,191,198,154,238,122,248,116,250,121,241,127,201,158,166,195,115,260"/>
+<area shape="rect" id="Node000004" href="$classhbchart_1_1_gantt_chart_layouter.html#ac22499649129c89432048926560da808" title="Layout the milestone." alt="" coords="240,225,426,266"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="192,263,224,258,225,264,192,268"/>
+<area shape="rect" id="Node000010" href="$classhbchart_1_1_gantt_chart_layouter.html#af81897e43e980fc8e52e6fd4eaa94865" title="Layout the section." alt="" coords="240,356,426,397"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="144,297,241,341,259,348,257,353,239,345,142,302"/>
+<area shape="rect" id="Node000013" href="$classhbchart_1_1_gantt_chart_layouter.html#aa8d93a7ac3b0b89b08a0176315711e34" title="Layout the task." alt="" coords="240,160,426,201"/>
+<area shape="poly" id="edge16_Node000001_Node000013" title=" " alt="" coords="141,256,239,211,256,204,258,209,241,216,143,261"/>
+<area shape="rect" id="Node000014" href="$classhbchart_1_1_gantt_chart_layouter.html#aaa52eff7241d6261bd0f7629907ed9e7" title="Layout the title." alt="" coords="240,421,426,462"/>
+<area shape="poly" id="edge22_Node000001_Node000014" title=" " alt="" coords="119,298,171,351,205,380,241,406,252,412,249,417,238,411,201,385,167,355,115,302"/>
+<area shape="rect" id="Node000017" href="$classhbchart_1_1_gantt_chart_layouter.html#ad00304413c0786d4ff2766ffd3c80700" title="Update the bounding rect." alt="" coords="240,487,426,527"/>
+<area shape="poly" id="edge25_Node000001_Node000017" title=" " alt="" coords="112,299,131,335,160,382,197,430,241,472,248,477,245,481,238,476,193,433,156,385,127,338,107,301"/>
+<area shape="rect" id="Node000018" href="$classhbchart_1_1_gantt_chart_layouter.html#a1bdde4c2470469033293986acec66727" title="Update the inner rect." alt="" coords="240,291,426,331"/>
+<area shape="poly" id="edge26_Node000001_Node000018" title=" " alt="" coords="192,289,225,294,224,299,192,294"/>
+<area shape="rect" id="Node000005" href="$structhbchart_1_1_time_unit_type.html#a6fbc526a2a1747b448e0bd56207ab57a" title="Convert seconds to model." alt="" coords="484,111,637,151"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="401,222,425,210,439,198,448,187,458,175,472,162,482,156,485,161,476,167,461,178,452,190,443,202,427,215,404,227"/>
+<area shape="rect" id="Node000006" href="$classhbchart_1_1_gantt_chart_shape_item.html#ab691b50bd11f4a07f94796d8892635bb" title="Set X limits." alt="" coords="474,176,647,217"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="426,223,458,216,459,221,427,228"/>
+<area shape="rect" id="Node000007" href="$classhbchart_1_1_gantt_chart_shape_item.html#a727e22a505cc774707398258945c3bf2" title="Get width." alt="" coords="695,233,869,274"/>
+<area shape="poly" id="edge10_Node000004_Node000007" title=" " alt="" coords="426,245,680,249,679,255,426,250"/>
+<area shape="rect" id="Node000009" href="$structhbchart_1_1_time_scene_ratio.html#a1a33a553eecd6ee6b5f736e02c68f796" title="Convert time to scene units." alt="" coords="476,291,645,331"/>
+<area shape="poly" id="edge9_Node000004_Node000009" title=" " alt="" coords="407,264,473,283,472,288,405,269"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="642,215,687,226,685,231,641,220"/>
+<area shape="poly" id="edge8_Node000007_Node000007" title=" " alt="" coords="740,233,738,223,745,214,760,209,782,207,806,209,820,215,818,220,805,214,782,212,761,214,748,219,743,225,745,232"/>
+<area shape="rect" id="Node000008" href="$classhbchart_1_1_gantt_chart_shape_item.html#a49b55422f43bb18508623ba3a79adc53" title="Get height." alt="" coords="917,264,1090,305"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="869,263,901,268,901,273,869,268"/>
+<area shape="rect" id="Node000011" href="$classhbchart_1_1_gantt_chart_shape_item.html#a64e130c426fe0fd9fb166b52395512fd" title="Set Rect." alt="" coords="474,356,647,397"/>
+<area shape="poly" id="edge12_Node000010_Node000011" title=" " alt="" coords="426,374,458,374,458,379,426,379"/>
+<area shape="poly" id="edge15_Node000011_Node000007" title=" " alt="" coords="623,353,646,341,660,329,670,318,694,294,717,280,720,284,697,298,674,322,664,333,649,345,625,358"/>
+<area shape="poly" id="edge13_Node000011_Node000008" title=" " alt="" coords="646,353,695,342,901,300,902,305,696,347,647,358"/>
+<area shape="rect" id="Node000012" href="$classhbchart_1_1_gantt_chart_shape_item.html#a4d684d9e56ab439cc4b901c54fbf391b" title="Adjust size to fit text." alt="" coords="695,356,869,397"/>
+<area shape="poly" id="edge14_Node000011_Node000012" title=" " alt="" coords="648,374,680,374,680,379,648,379"/>
+<area shape="poly" id="edge17_Node000013_Node000005" title=" " alt="" coords="426,158,468,148,469,153,427,163"/>
+<area shape="poly" id="edge19_Node000013_Node000006" title=" " alt="" coords="427,184,459,187,458,192,426,190"/>
+<area shape="poly" id="edge21_Node000013_Node000007" title=" " alt="" coords="366,157,429,119,473,97,522,83,562,77,602,80,649,97,687,121,719,153,746,187,766,219,761,221,741,190,716,156,684,125,646,101,601,85,562,82,523,89,475,101,432,124,369,162"/>
+<area shape="poly" id="edge20_Node000013_Node000009" title=" " alt="" coords="400,199,427,211,480,244,525,278,522,283,477,248,425,216,398,204"/>
+<area shape="poly" id="edge18_Node000013_Node000013" title=" " alt="" coords="290,160,288,150,295,141,310,135,333,133,357,136,372,142,370,147,356,141,333,139,311,141,298,145,293,151,295,159"/>
+<area shape="rect" id="Node000015" href="$classhbchart_1_1_gantt_chart_label.html#a2bb6d8d99c1db2fd9c565aa2dae7a49f" title="Bounding rectangle." alt="" coords="477,421,644,462"/>
+<area shape="poly" id="edge23_Node000014_Node000015" title=" " alt="" coords="426,439,461,439,461,444,426,444"/>
+<area shape="rect" id="Node000016" href="$classhbchart_1_1_gantt_chart_label.html#a95f1a63b386254651b254761f45dbb0c" title="Inner rectangle." alt="" coords="698,421,866,462"/>
+<area shape="poly" id="edge24_Node000015_Node000016" title=" " alt="" coords="645,439,683,439,683,444,645,444"/>
+<area shape="poly" id="edge27_Node000018_Node000009" title=" " alt="" coords="426,308,460,308,460,314,426,314"/>
+</map>

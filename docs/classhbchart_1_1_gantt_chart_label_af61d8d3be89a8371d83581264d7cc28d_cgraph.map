@@ -1,0 +1,7 @@
+<map id="hbchart::GanttChartLabel::updateInnerRect" name="hbchart::GanttChartLabel::updateInnerRect">
+<area shape="rect" id="Node000001" title="Adjust size to fit text." alt="" coords="5,5,173,46"/>
+<area shape="rect" id="Node000002" href="$classhbchart_1_1_gantt_chart_label.html#a2ca1b887aa9fc42860ea3f6d11fda6c3" title="Adjust size to fit text." alt="" coords="221,5,388,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="173,23,205,23,205,28,173,28"/>
+<area shape="rect" id="Node000003" href="$classhbchart_1_1_gantt_chart_label.html#aa91f3a5f0dc082352f8dc8a066b50ffa" title="Get text." alt="" coords="436,5,603,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="388,23,420,23,420,28,388,28"/>
+</map>

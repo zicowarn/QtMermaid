@@ -1,0 +1,5 @@
+<map id="hbchart::QtMermaidTextEdit::resizeEvent" name="hbchart::QtMermaidTextEdit::resizeEvent">
+<area shape="rect" id="Node000001" title="Rewrite virtual functions to handle size change events." alt="" coords="5,5,190,46"/>
+<area shape="rect" id="Node000002" href="$classhbchart_1_1_qt_mermaid_text_edit.html#ab211c8ab2e0829e051b066a826e06ff8" title="Calculate the width of the line number area." alt="" coords="238,5,422,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="190,23,222,23,222,28,190,28"/>
+</map>

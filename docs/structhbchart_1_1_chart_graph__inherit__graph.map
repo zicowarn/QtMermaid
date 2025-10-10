@@ -1,0 +1,7 @@
+<map id="hbchart::ChartGraph" name="hbchart::ChartGraph">
+<area shape="rect" id="Node000001" title="The base struct for chart graph data." alt="" coords="83,5,223,31"/>
+<area shape="rect" id="Node000002" href="$structhbchart_1_1_flow_graph.html" title="The struct for flowchart graph data." alt="" coords="5,79,141,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="130,43,88,81,85,77,126,39"/>
+<area shape="rect" id="Node000003" href="$structhbchart_1_1_gantt_graph.html" title="The struct for gantt chart graph data." alt="" coords="165,79,304,105"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="180,39,222,77,219,81,176,43"/>
+</map>

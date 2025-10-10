@@ -1,0 +1,9 @@
+<map id="hbchart::parseTime" name="hbchart::parseTime">
+<area shape="rect" id="Node000001" title=" " alt="" coords="225,78,358,104"/>
+<area shape="rect" id="Node000002" href="$classhbchart_1_1_gantt_chart_model.html#afd479a24c63744d8e28bbcdd791e5b12" title="Add a milestone." alt="" coords="5,5,177,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="234,75,155,49,157,44,236,70"/>
+<area shape="rect" id="Node000003" href="$classhbchart_1_1_gantt_chart_model.html#aa054d70b13c43f2a546d55af6e99920c" title="Add a task." alt="" coords="5,71,177,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="209,94,177,94,177,88,209,88"/>
+<area shape="rect" id="Node000004" href="$classhbchart_1_1_gantt_chart_model.html#a850311474bd2f28e5bcb0b567576534c" title="Set the base time." alt="" coords="5,136,177,177"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="236,112,157,138,155,133,234,107"/>
+</map>

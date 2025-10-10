@@ -1,0 +1,6 @@
+<map id="hbchart::GanttChartShapeItem::width" name="hbchart::GanttChartShapeItem::width">
+<area shape="rect" id="Node000001" title="Get width." alt="" coords="5,29,179,70"/>
+<area shape="poly" id="edge2_Node000001_Node000001" title=" " alt="" coords="50,29,48,19,55,10,70,5,92,3,116,5,130,11,128,16,115,10,92,8,71,10,58,15,53,21,55,28"/>
+<area shape="rect" id="Node000002" href="$classhbchart_1_1_gantt_chart_shape_item.html#a49b55422f43bb18508623ba3a79adc53" title="Get height." alt="" coords="227,29,400,70"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="179,47,211,47,211,52,179,52"/>
+</map>

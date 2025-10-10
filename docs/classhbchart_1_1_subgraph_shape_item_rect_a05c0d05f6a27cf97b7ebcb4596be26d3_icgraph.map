@@ -1,0 +1,9 @@
+<map id="hbchart::SubgraphShapeItemRect::updateInnerRect" name="hbchart::SubgraphShapeItemRect::updateInnerRect">
+<area shape="rect" id="Node000001" title="Update inner rectangle." alt="" coords="495,39,685,79"/>
+<area shape="rect" id="Node000002" href="$classhbchart_1_1_subgraph_shape_item_rect.html#ad7c0bc5eb134325aeba339bd95255a28" title="Adjust size to fit text." alt="" coords="257,5,447,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="479,46,447,42,448,36,480,41"/>
+<area shape="rect" id="Node000004" href="$classhbchart_1_1_subgraph_shape_item_rect.html#a8b7169f8d75785f0e5e8b71f59733b40" title="Set size." alt="" coords="257,71,447,111"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="480,77,448,81,447,76,479,71"/>
+<area shape="rect" id="Node000003" href="$classhbchart_1_1_subgraph_shape_item_rect.html#a728a0929c8dd1bc0476af677ff883f70" title="Constructor." alt="" coords="5,5,209,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="241,28,209,28,209,23,241,23"/>
+</map>

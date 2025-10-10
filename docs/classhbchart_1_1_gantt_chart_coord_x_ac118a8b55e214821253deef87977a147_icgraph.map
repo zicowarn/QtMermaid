@@ -1,0 +1,5 @@
+<map id="hbchart::GanttChartCoordX::updatePath" name="hbchart::GanttChartCoordX::updatePath">
+<area shape="rect" id="Node000001" title="update the connection line path" alt="" coords="225,5,396,46"/>
+<area shape="rect" id="Node000002" href="$classhbchart_1_1_gantt_chart_coord_x.html#ae0c158844b74c4f6a56f51e654a964bc" title="Constructor." alt="" coords="5,5,177,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="209,28,177,28,177,23,209,23"/>
+</map>

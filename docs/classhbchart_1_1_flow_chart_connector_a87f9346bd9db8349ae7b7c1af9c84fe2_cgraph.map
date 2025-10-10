@@ -1,0 +1,8 @@
+<map id="hbchart::FlowChartConnector::collectEdges" name="hbchart::FlowChartConnector::collectEdges">
+<area shape="rect" id="Node000001" title="Collect all connection lines from the model." alt="" coords="5,39,198,79"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="59,39,56,29,63,20,79,14,102,12,126,14,141,21,139,26,125,20,101,17,80,19,67,24,62,30,64,37"/>
+<area shape="rect" id="Node000002" href="$classhbchart_1_1_flow_chart_model.html#af1f3ae9831cf61f209e3573a18799b42" title="Get the edges." alt="" coords="246,5,413,46"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="198,42,230,37,231,43,199,48"/>
+<area shape="rect" id="Node000003" href="$classhbchart_1_1_flow_chart_model.html#a84618ad3579fe61990a417a9985b4e21" title="Get the subgraphs." alt="" coords="246,71,413,111"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="199,70,231,74,230,80,198,75"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="hbchart::GanttChartScene::connectSignals" name="hbchart::GanttChartScene::connectSignals">
+<area shape="rect" id="Node000001" title="connect signals to an item" alt="" coords="5,71,179,111"/>
+<area shape="rect" id="Node000002" href="$classhbchart_1_1_gantt_chart_shape_item.html#a4730d31e31b916c0086d2a5372d53581" title="Position changed signal." alt="" coords="227,5,413,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="164,68,231,48,233,53,166,73"/>
+<area shape="rect" id="Node000003" href="$structhbchart_1_1_time_scene_ratio.html#ab87076d0ca681c3d358ee125c38a12f2" title="Convert scene units to time." alt="" coords="235,71,404,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="179,88,220,88,220,94,179,94"/>
+<area shape="rect" id="Node000004" href="$classhbchart_1_1_gantt_chart_scene.html#a65fa61e0ef82703d09fb60a3adcd7c54" title="Get time scale." alt="" coords="233,136,406,177"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="166,109,233,129,231,134,164,114"/>
+</map>

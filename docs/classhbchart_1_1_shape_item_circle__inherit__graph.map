@@ -1,0 +1,7 @@
+<map id="hbchart::ShapeItemCircle" name="hbchart::ShapeItemCircle">
+<area shape="rect" id="Node000001" title="Flowchart circle shape." alt="" coords="18,153,188,178"/>
+<area shape="rect" id="Node000002" href="$classhbchart_1_1_flow_chart_shape_item.html" title="Flowchart shape." alt="" coords="5,79,201,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="106,120,106,152,100,152,100,120"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="42,5,164,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="106,46,106,79,100,79,100,46"/>
+</map>

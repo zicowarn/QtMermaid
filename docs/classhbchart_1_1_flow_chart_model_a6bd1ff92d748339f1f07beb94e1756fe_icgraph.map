@@ -1,0 +1,30 @@
+<map id="hbchart::FlowChartModel::modelID" name="hbchart::FlowChartModel::modelID">
+<area shape="rect" id="Node000001" title="Get the model ID." alt="" coords="710,207,878,247"/>
+<area shape="rect" id="Node000002" href="$classhbchart_1_1_flow_chart_scene.html#af217d78c2d34f46d4db737d414ea7544" title="Add a node or subgraph to the scene (exclude virtual nodes)" alt="" coords="486,5,656,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="771,195,725,131,695,97,661,66,631,49,634,44,664,62,698,93,729,127,775,192"/>
+<area shape="rect" id="Node000003" href="$classhbchart_1_1_flow_chart_scene.html#ab34185d5fb70ff782591a0f3599b4a11" title="Add nodes to the scene recursively." alt="" coords="249,35,418,75"/>
+<area shape="poly" id="edge5_Node000001_Node000003" title=" " alt="" coords="765,197,720,151,692,129,661,111,601,87,537,72,475,63,419,58,419,53,475,57,538,67,602,82,663,106,695,124,723,147,769,193"/>
+<area shape="rect" id="Node000005" href="$classhbchart_1_1_flow_chart_layouter.html#a9b64107e403635246d2240ca271a1c0d" title="Adjust the position of the subgraph children." alt="" coords="480,120,662,161"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="724,203,625,164,627,159,726,198"/>
+<area shape="rect" id="Node000006" href="$classhbchart_1_1_flow_chart_layouter.html#ab056b77e92f7ef069a671d7292233703" title="Layout the flowchart subgraph." alt="" coords="243,177,425,218"/>
+<area shape="poly" id="edge14_Node000001_Node000006" title=" " alt="" coords="695,223,425,206,426,201,695,218"/>
+<area shape="rect" id="Node000008" href="$classhbchart_1_1_flow_chart_model.html#a505c8410f910cb3e74da1f0a406728e3" title="Calculate the layers of the nodes." alt="" coords="488,235,655,275"/>
+<area shape="poly" id="edge10_Node000001_Node000008" title=" " alt="" coords="695,242,656,247,655,242,695,237"/>
+<area shape="rect" id="Node000009" href="$classhbchart_1_1_flow_chart_layouter.html#ad8c962ed3fa90a9c8abec1285449754e" title="Precompute the bounds of the flowchart subgraph." alt="" coords="236,243,432,283"/>
+<area shape="poly" id="edge15_Node000001_Node000009" title=" " alt="" coords="746,257,706,276,663,290,603,298,541,299,482,294,428,287,429,281,482,289,541,293,602,293,662,284,704,271,744,253"/>
+<area shape="rect" id="Node000010" href="$classhbchart_1_1_flow_chart_model.html#a3cd14b5d3f50339726ae9b1959d65909" title="Set the model ID." alt="" coords="488,349,655,390"/>
+<area shape="poly" id="edge16_Node000001_Node000010" title=" " alt="" coords="761,260,716,297,664,333,629,351,626,346,661,329,713,293,758,256"/>
+<area shape="rect" id="Node000011" href="$classhbchart_1_1_flow_chart_model.html#a75a38dd305abd2e47a7e4194077b7fcf" title="Destructor." alt="" coords="488,415,655,455"/>
+<area shape="poly" id="edge17_Node000001_Node000011" title=" " alt="" coords="777,262,732,333,700,371,664,404,643,417,640,412,661,400,697,367,728,330,773,260"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="472,41,419,47,419,42,471,35"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="373,22,358,16,334,13,311,15,297,20,292,26,294,33,289,35,287,25,294,16,310,10,334,8,359,10,375,17"/>
+<area shape="rect" id="Node000004" href="$classhbchart_1_1_flow_chart_scene.html#a1a113b78800aabdbbe80f2bd60eae191" title="Update the scene." alt="" coords="12,35,181,75"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="234,58,182,58,182,52,234,52"/>
+<area shape="poly" id="edge7_Node000005_Node000006" title=" " alt="" coords="470,167,422,179,420,174,469,162"/>
+<area shape="poly" id="edge9_Node000006_Node000006" title=" " alt="" coords="373,164,358,158,334,156,311,158,297,163,292,169,294,176,289,177,287,167,294,158,310,153,334,151,359,153,375,159"/>
+<area shape="rect" id="Node000007" href="$classhbchart_1_1_flow_chart_layouter.html#ad1b50bb41df7adc2e8db2b14facf9072" title="Apply the layout." alt="" coords="5,209,188,250"/>
+<area shape="poly" id="edge8_Node000006_Node000007" title=" " alt="" coords="227,215,189,220,188,215,227,209"/>
+<area shape="poly" id="edge11_Node000008_Node000006" title=" " alt="" coords="472,234,420,221,421,216,473,229"/>
+<area shape="poly" id="edge12_Node000008_Node000009" title=" " alt="" coords="472,261,433,262,432,257,472,256"/>
+<area shape="poly" id="edge13_Node000009_Node000007" title=" " alt="" coords="220,250,188,245,189,240,220,244"/>
+</map>

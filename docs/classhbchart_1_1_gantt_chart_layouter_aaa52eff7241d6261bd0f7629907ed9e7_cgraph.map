@@ -1,0 +1,7 @@
+<map id="hbchart::GanttChartLayouter::layoutTitle" name="hbchart::GanttChartLayouter::layoutTitle">
+<area shape="rect" id="Node000001" title="Layout the title." alt="" coords="5,5,192,46"/>
+<area shape="rect" id="Node000002" href="$classhbchart_1_1_gantt_chart_label.html#a2bb6d8d99c1db2fd9c565aa2dae7a49f" title="Bounding rectangle." alt="" coords="240,5,407,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="192,23,224,23,224,28,192,28"/>
+<area shape="rect" id="Node000003" href="$classhbchart_1_1_gantt_chart_label.html#a95f1a63b386254651b254761f45dbb0c" title="Inner rectangle." alt="" coords="455,5,622,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="407,23,439,23,439,28,407,28"/>
+</map>

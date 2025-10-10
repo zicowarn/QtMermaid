@@ -1,0 +1,7 @@
+<map id="hbchart::GanttChartItemSection::paint" name="hbchart::GanttChartItemSection::paint">
+<area shape="rect" id="Node000001" title="Paint." alt="" coords="5,39,212,79"/>
+<area shape="rect" id="Node000002" href="$classhbchart_1_1_gantt_chart_item_section.html#a07dea3581a18f42606cfa6918c037318" title="Get text." alt="" coords="260,5,466,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="212,43,244,39,245,44,213,48"/>
+<area shape="rect" id="Node000003" href="$classhbchart_1_1_gantt_chart_item_section.html#af3a13c6eec25eb928ccf2e3c819af039" title="Inner rectangle." alt="" coords="260,71,466,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="213,69,245,73,244,79,212,75"/>
+</map>

@@ -1,0 +1,19 @@
+<map id="hbchart::GanttChartScene" name="hbchart::GanttChartScene">
+<area shape="rect" id="Node000001" title="GanttChart scene." alt="" coords="648,81,821,107"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="335,5,456,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="472,20,546,29,625,45,670,61,709,78,706,83,668,66,623,50,545,34,471,25"/>
+<area shape="rect" id="Node000003" href="$structhbchart_1_1_time_scene_ratio.html" title="TimeSceneRatio." alt="" coords="311,55,480,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="495,73,648,85,648,90,495,78"/>
+<area shape="rect" id="Node000004" href="$classhbchart_1_1_gantt_chart_model.html" title="The GanttChartModel class." alt="" coords="310,105,481,131"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="496,121,559,122,624,117,686,105,687,110,624,122,559,127,496,127"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="47,48,117,74"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="132,61,205,69,286,82,310,90,349,102,348,107,309,95,285,87,204,74,132,66"/>
+<area shape="rect" id="Node000006" href="$structhbchart_1_1_gantt_title.html" title="GanttChart Title." alt="" coords="17,97,147,123"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="162,110,310,113,309,119,162,115"/>
+<area shape="rect" id="Node000007" href="$structhbchart_1_1_time_unit_type.html" title="The TimeUnitType struct." alt="" coords="5,151,159,176"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="174,155,285,141,343,129,344,134,286,146,175,160"/>
+<area shape="rect" id="Node000008" href="$classhbchart_1_1_gantt_chart_label.html" title="GanttChart rounded rectangle shape." alt="" coords="312,177,479,203"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="494,179,558,168,623,151,672,129,712,105,715,110,674,134,625,156,559,173,494,184"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="21,200,143,226"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="158,205,311,194,312,199,159,210"/>
+</map>

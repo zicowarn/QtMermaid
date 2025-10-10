@@ -1,0 +1,7 @@
+<map id="hbchart::GanttChartItemSection::GanttChartItemSection" name="hbchart::GanttChartItemSection::GanttChartItemSection">
+<area shape="rect" id="Node000001" title="Constructor." alt="" coords="5,39,212,79"/>
+<area shape="rect" id="Node000002" href="$classhbchart_1_1_gantt_chart_shape_item.html#a05458c94dc9e37d924d5d9d8ae5f2f0b" title="Constructor." alt="" coords="272,5,454,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="212,43,256,37,257,42,213,48"/>
+<area shape="rect" id="Node000003" href="$classhbchart_1_1_gantt_chart_item_section.html#a70551a2813c5ac820e9c664d2ff8d135" title="Adjust size to fit text." alt="" coords="260,71,466,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="213,69,245,73,244,79,212,75"/>
+</map>

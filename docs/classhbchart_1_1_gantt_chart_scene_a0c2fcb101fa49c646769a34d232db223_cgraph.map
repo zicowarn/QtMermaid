@@ -1,0 +1,5 @@
+<map id="hbchart::GanttChartScene::getSceneBaseTime" name="hbchart::GanttChartScene::getSceneBaseTime">
+<area shape="rect" id="Node000001" title="Get the base time in scene units." alt="" coords="5,5,179,46"/>
+<area shape="rect" id="Node000002" href="$structhbchart_1_1_time_unit_type.html#a6fbc526a2a1747b448e0bd56207ab57a" title="Convert seconds to model." alt="" coords="227,5,380,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="179,23,211,23,211,28,179,28"/>
+</map>

@@ -1,0 +1,45 @@
+<map id="hbchart::FlowChartConnector::updateAll" name="hbchart::FlowChartConnector::updateAll">
+<area shape="rect" id="Node000001" title="Draw all connection lines." alt="" coords="5,128,198,169"/>
+<area shape="rect" id="Node000002" href="$classhbchart_1_1_flow_chart_connector.html#a8e9505459d805f3d2ffb1aa9ee26a012" title="Clear all connection lines." alt="" coords="246,5,438,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="130,125,182,91,244,57,260,50,262,55,247,61,185,96,133,130"/>
+<area shape="rect" id="Node000003" href="$classhbchart_1_1_flow_chart_connector.html#a87f9346bd9db8349ae7b7c1af9c84fe2" title="Collect all connection lines from the model." alt="" coords="246,95,438,135"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="198,132,230,128,231,133,199,138"/>
+<area shape="rect" id="Node000006" href="$classhbchart_1_1_flow_chart_connector.html#a6527ec22ad3f8bb8e150ac3d0227b530" title="Compute the degrees of the connected nodes." alt="" coords="246,160,438,201"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="198,159,231,163,230,168,198,164"/>
+<area shape="rect" id="Node000007" href="$classhbchart_1_1_flow_chart_connector.html#abca3b3ec865c24b393dff92d92917f04" title="Render all connection lines." alt="" coords="246,275,438,315"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="138,167,295,264,292,268,135,171"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="297,95,294,85,302,76,318,70,342,68,368,70,383,77,381,82,366,76,342,73,319,75,305,80,300,86,302,93"/>
+<area shape="rect" id="Node000004" href="$classhbchart_1_1_flow_chart_model.html#af1f3ae9831cf61f209e3573a18799b42" title="Get the edges." alt="" coords="498,29,666,70"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="418,92,489,72,491,77,420,97"/>
+<area shape="rect" id="Node000005" href="$classhbchart_1_1_flow_chart_model.html#a84618ad3579fe61990a417a9985b4e21" title="Get the subgraphs." alt="" coords="498,95,666,135"/>
+<area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="438,112,483,112,483,118,438,118"/>
+<area shape="rect" id="Node000008" href="$classhbchart_1_1_flow_chart_connector.html#aef41973c2bd754a16959b2c732e169fd" title="Calculate the control points of the connection line." alt="" coords="486,209,678,250"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="418,272,489,252,491,257,420,277"/>
+<area shape="rect" id="Node000013" href="$classhbchart_1_1_flow_chart_shape_item.html#a709026092df3f9a476e68a741add5dad" title="Get text." alt="" coords="726,13,922,54"/>
+<area shape="poly" id="edge21_Node000007_Node000013" title=" " alt="" coords="366,272,419,233,485,195,514,185,540,179,586,176,629,170,652,161,677,145,693,126,700,107,708,86,724,65,731,60,734,64,728,69,712,88,705,108,698,129,680,149,654,165,630,175,586,181,540,184,515,190,487,200,422,238,369,276"/>
+<area shape="rect" id="Node000018" href="$classhbchart_1_1_flow_chart_connector.html#ae7c937d85e25acd12bfd78e4fdd0a3cc" title="Determine the path type of the connection line." alt="" coords="486,275,678,315"/>
+<area shape="poly" id="edge18_Node000007_Node000018" title=" " alt="" coords="438,292,470,292,470,298,438,298"/>
+<area shape="rect" id="Node000019" href="$classhbchart_1_1_flow_chart_connector.html#a70f3fe420e331f04bcc579fa4fec5bc3" title="Getter of the total number of edges with the same source and target." alt="" coords="486,340,678,381"/>
+<area shape="poly" id="edge19_Node000007_Node000019" title=" " alt="" coords="420,313,491,333,489,338,418,318"/>
+<area shape="rect" id="Node000020" href="$classhbchart_1_1_flow_chart_connector.html#a3d42b87217412a5c3719ef61e609ce8c" title="Getter of the total number of edges with the same source and target." alt="" coords="486,405,678,446"/>
+<area shape="poly" id="edge20_Node000007_Node000020" title=" " alt="" coords="371,314,423,352,487,390,501,397,499,401,485,395,420,356,368,318"/>
+<area shape="rect" id="Node000021" href="$classhbchart_1_1_flow_chart_connector.html#aa81c29eefabec7d8d14e8c674d18e504" title="Check if the edge is a self&#45;loop." alt="" coords="486,471,678,511"/>
+<area shape="poly" id="edge22_Node000007_Node000021" title=" " alt="" coords="358,314,410,383,446,422,488,455,497,461,494,466,484,460,442,426,406,386,354,317"/>
+<area shape="rect" id="Node000009" href="$classhbchart_1_1_flow_chart_shape_item.html#a0c1334afff5b35bd557c7c8c4e52b6cd" title="Bounding rectangle." alt="" coords="726,79,922,119"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="646,206,677,189,691,174,700,160,709,145,725,130,734,125,736,129,728,134,713,148,704,163,695,178,680,193,649,211"/>
+<area shape="rect" id="Node000011" href="$classhbchart_1_1_flow_chart_edge_item.html#ad00952a33787ea47f03a77108c79a3bb" title="Get the connection line start point and end point." alt="" coords="730,144,918,185"/>
+<area shape="poly" id="edge11_Node000008_Node000011" title=" " alt="" coords="659,206,730,187,732,192,661,211"/>
+<area shape="rect" id="Node000012" href="$classhbchart_1_1_flow_chart_shape_item.html#a7ee9a3c6191495972b43270849591588" title="Get in&#45;degree." alt="" coords="726,209,922,250"/>
+<area shape="poly" id="edge12_Node000008_Node000012" title=" " alt="" coords="679,227,711,227,711,232,679,232"/>
+<area shape="poly" id="edge13_Node000008_Node000013" title=" " alt="" coords="652,207,676,189,688,174,695,159,699,128,704,97,711,81,724,65,729,61,732,65,728,69,716,84,709,99,705,129,700,160,693,177,680,193,655,211"/>
+<area shape="rect" id="Node000014" href="$classhbchart_1_1_flow_chart_shape_item.html#addc61c5f7061336facdb2f6389bf4ace" title="Get out&#45;degree." alt="" coords="726,275,922,315"/>
+<area shape="poly" id="edge14_Node000008_Node000014" title=" " alt="" coords="661,248,732,267,730,273,659,253"/>
+<area shape="rect" id="Node000015" href="$classhbchart_1_1_flow_chart_edge_item.html#ab0099fe3f731fb45dea0932f4d52e778" title="Get the source node." alt="" coords="730,340,918,381"/>
+<area shape="poly" id="edge15_Node000008_Node000015" title=" " alt="" coords="659,248,680,261,696,277,705,294,713,310,728,325,736,330,733,335,725,329,709,313,700,296,692,280,677,265,656,253"/>
+<area shape="rect" id="Node000016" href="$classhbchart_1_1_flow_chart_edge_item.html#a078ebdb045dcc514efc897980e459678" title="Get the target node." alt="" coords="730,405,918,446"/>
+<area shape="poly" id="edge16_Node000008_Node000016" title=" " alt="" coords="664,249,680,261,693,278,701,295,705,327,709,359,716,375,728,391,732,394,729,398,724,394,711,378,704,361,700,328,696,296,689,281,676,265,660,253"/>
+<area shape="rect" id="Node000017" href="$classhbchart_1_1_flow_chart_shape_item.html#a70bbee25c4796a3db6a53e4535453d34" title="Set virtual node flag." alt="" coords="726,471,922,511"/>
+<area shape="poly" id="edge17_Node000008_Node000017" title=" " alt="" coords="665,249,680,261,698,286,705,312,707,336,705,361,703,385,705,408,712,432,728,456,732,459,728,463,724,459,707,434,699,409,698,385,700,360,701,336,700,312,693,289,676,265,662,253"/>
+<area shape="rect" id="Node000010" href="$classhbchart_1_1_flow_chart_shape_item.html#ac501d3afdbe7d19b17059d96c7458673" title="Inner rectangle." alt="" coords="970,79,1165,119"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="922,96,954,96,954,102,922,102"/>
+</map>

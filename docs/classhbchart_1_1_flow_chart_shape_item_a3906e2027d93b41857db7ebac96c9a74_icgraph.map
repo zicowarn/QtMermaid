@@ -1,0 +1,7 @@
+<map id="hbchart::FlowChartShapeItem::margin" name="hbchart::FlowChartShapeItem::margin">
+<area shape="rect" id="Node000001" title="Get margin." alt="" coords="249,39,444,79"/>
+<area shape="rect" id="Node000002" href="$classhbchart_1_1_flow_chart_shape_item.html#ad01ce87f8d8611fbb6566dfbdc024c2f" title="Set margin." alt="" coords="5,5,201,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="233,46,201,42,201,36,233,41"/>
+<area shape="rect" id="Node000003" href="$classhbchart_1_1_flow_chart_shape_item.html#a5bfbace0166b89d60d70e830789590bf" title="Destructor." alt="" coords="5,71,201,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="233,77,201,81,201,76,233,71"/>
+</map>

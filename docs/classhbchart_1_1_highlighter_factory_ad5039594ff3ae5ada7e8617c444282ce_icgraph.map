@@ -1,0 +1,8 @@
+<map id="hbchart::HighlighterFactory::create" name="hbchart::HighlighterFactory::create">
+<area shape="rect" id="Node000001" title=" " alt="" coords="442,5,620,46"/>
+<area shape="rect" id="Node000002" href="$classhbchart_1_1_qt_mermaid_editor.html#a89ebe0b6dcd1ad9f64c4985e7e295689" title=" " alt="" coords="5,5,176,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="426,25,394,24,224,24,176,25,176,20,224,19,394,19,426,20"/>
+<area shape="rect" id="Node000003" href="$classhbchart_1_1_qt_mermaid_editor.html#a32e3fa676050c5af6668f66a168603ad" title=" " alt="" coords="224,33,394,74"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="427,41,395,46,394,40,426,36"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="208,43,176,39,177,34,209,38"/>
+</map>

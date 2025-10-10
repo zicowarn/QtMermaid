@@ -1,0 +1,5 @@
+<map id="hbchart::GanttChartView::onApplyPendingScale" name="hbchart::GanttChartView::onApplyPendingScale">
+<area shape="rect" id="Node000001" title="Handle debounced zoom event." alt="" coords="219,5,384,46"/>
+<area shape="rect" id="Node000002" href="$classhbchart_1_1_gantt_chart_view.html#a9c63f4df9fbb4118d6462ee9e6159622" title="Constructor." alt="" coords="5,5,171,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="203,28,171,28,171,23,203,23"/>
+</map>

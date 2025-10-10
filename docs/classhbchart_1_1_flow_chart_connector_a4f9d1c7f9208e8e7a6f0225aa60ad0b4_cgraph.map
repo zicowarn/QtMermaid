@@ -1,0 +1,5 @@
+<map id="hbchart::FlowChartConnector::~FlowChartConnector" name="hbchart::FlowChartConnector::~FlowChartConnector">
+<area shape="rect" id="Node000001" title="Destructor." alt="" coords="5,5,198,46"/>
+<area shape="rect" id="Node000002" href="$classhbchart_1_1_flow_chart_connector.html#a8e9505459d805f3d2ffb1aa9ee26a012" title="Clear all connection lines." alt="" coords="246,5,438,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="198,23,230,23,230,28,198,28"/>
+</map>

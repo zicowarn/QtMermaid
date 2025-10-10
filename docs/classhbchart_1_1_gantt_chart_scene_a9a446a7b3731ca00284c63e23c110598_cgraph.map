@@ -1,0 +1,7 @@
+<map id="hbchart::GanttChartScene::formatAxisLabel" name="hbchart::GanttChartScene::formatAxisLabel">
+<area shape="rect" id="Node000001" title="Format the label." alt="" coords="5,39,179,79"/>
+<area shape="rect" id="Node000002" href="$classhbchart_1_1_gantt_chart_scene.html#aff67a0e6777f640af5767ab66a7c4e6e" title="Get the view time unit format." alt="" coords="227,5,400,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="179,43,211,38,212,44,180,49"/>
+<area shape="rect" id="Node000003" href="$classhbchart_1_1_gantt_chart_scene.html#a99a52b17c28b7db547334dd0aa4a2e11" title="Get the weekday name list." alt="" coords="227,71,400,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="180,69,211,74,211,79,179,74"/>
+</map>

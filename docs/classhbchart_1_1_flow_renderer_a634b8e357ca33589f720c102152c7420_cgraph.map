@@ -1,0 +1,5 @@
+<map id="hbchart::FlowRenderer::FlowRenderer" name="hbchart::FlowRenderer::FlowRenderer">
+<area shape="rect" id="Node000001" title="FlowRenderer constructor." alt="" coords="5,5,159,46"/>
+<area shape="rect" id="Node000002" href="$classhbchart_1_1_core_factory.html#af5811543bd48dabb959866e8c5f24a06" title="Create a chart core." alt="" coords="207,5,351,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="159,23,191,23,191,28,159,28"/>
+</map>

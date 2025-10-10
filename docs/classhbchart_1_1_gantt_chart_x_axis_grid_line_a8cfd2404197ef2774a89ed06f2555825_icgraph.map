@@ -1,0 +1,7 @@
+<map id="hbchart::GanttChartXAxisGridLine::updateBoundingRect" name="hbchart::GanttChartXAxisGridLine::updateBoundingRect">
+<area shape="rect" id="Node000001" title="Update the bounding rect of the coordinate line." alt="" coords="497,5,695,46"/>
+<area shape="rect" id="Node000002" href="$classhbchart_1_1_gantt_chart_x_axis_grid_line.html#ac4bcce08b98268e4a846e0e3e47c8749" title="update the connection line path" alt="" coords="278,5,449,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="481,28,450,28,450,23,481,23"/>
+<area shape="rect" id="Node000003" href="$classhbchart_1_1_gantt_chart_x_axis_grid_line.html#a17f6d49a5cc2a3274b3539c1c3fe8f2d" title="Constructor." alt="" coords="5,5,230,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="262,28,230,28,230,23,262,23"/>
+</map>

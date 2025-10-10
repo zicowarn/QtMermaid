@@ -1,0 +1,5 @@
+<map id="hbchart::GanttChartShapeItem::font" name="hbchart::GanttChartShapeItem::font">
+<area shape="rect" id="Node000001" title="Get font." alt="" coords="227,5,400,46"/>
+<area shape="rect" id="Node000002" href="$classhbchart_1_1_gantt_chart_shape_item.html#a7e3911c463299670ac5e31ae5417adbe" title="Set font." alt="" coords="5,5,179,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="211,28,179,28,179,23,211,23"/>
+</map>

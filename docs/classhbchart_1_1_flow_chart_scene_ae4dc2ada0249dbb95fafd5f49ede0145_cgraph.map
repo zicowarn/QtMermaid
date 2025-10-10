@@ -1,0 +1,5 @@
+<map id="hbchart::FlowChartScene::applyViewScale" name="hbchart::FlowChartScene::applyViewScale">
+<area shape="rect" id="Node000001" title="apply view scale factor to all items in the scene" alt="" coords="5,5,175,46"/>
+<area shape="rect" id="Node000002" href="$classhbchart_1_1_flow_chart_scene.html#abd64466e225d5ffdacc198f006697574" title="Set scale factor." alt="" coords="223,5,392,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="175,23,207,23,207,28,175,28"/>
+</map>

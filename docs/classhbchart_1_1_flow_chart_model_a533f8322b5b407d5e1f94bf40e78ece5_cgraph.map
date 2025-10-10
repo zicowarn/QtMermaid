@@ -1,0 +1,6 @@
+<map id="hbchart::FlowChartModel::FlowChartModel" name="hbchart::FlowChartModel::FlowChartModel">
+<area shape="rect" id="Node000001" title="Constructor." alt="" coords="5,29,173,70"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="48,29,46,19,53,10,67,5,89,3,112,5,126,11,124,16,111,10,89,8,69,10,56,15,51,21,53,28"/>
+<area shape="rect" id="Node000002" href="$classhbchart_1_1_flow_chart_model.html#aca5865286cafbe11e33a6eba1c775c7d" title="Get the level." alt="" coords="221,29,388,70"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="173,47,205,47,205,52,173,52"/>
+</map>

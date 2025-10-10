@@ -1,0 +1,5 @@
+<map id="hbchart::GanttChartScene::drawBackground" name="hbchart::GanttChartScene::drawBackground">
+<area shape="rect" id="Node000001" title="Draw background." alt="" coords="5,5,179,46"/>
+<area shape="rect" id="Node000002" href="$classhbchart_1_1_gantt_chart_scene.html#a788baae7746ad8b02d455609535a033b" title="Get the grid size." alt="" coords="227,5,400,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="179,23,211,23,211,28,179,28"/>
+</map>

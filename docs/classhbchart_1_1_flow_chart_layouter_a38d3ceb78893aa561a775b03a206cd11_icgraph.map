@@ -1,0 +1,17 @@
+<map id="hbchart::FlowChartLayouter::computeLayerMaxSize" name="hbchart::FlowChartLayouter::computeLayerMaxSize">
+<area shape="rect" id="Node000001" title="Compute the maximum size of the layer." alt="" coords="710,63,893,103"/>
+<area shape="rect" id="Node000002" href="$classhbchart_1_1_flow_chart_layouter.html#ae95ba2398fe852992a73448dfd49273f" title="apply the layout in horizontal direction." alt="" coords="480,29,662,70"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="695,70,663,66,663,60,695,65"/>
+<area shape="rect" id="Node000006" href="$classhbchart_1_1_flow_chart_layouter.html#a0bea924d14e98c9319c8e808d7eaea28" title="apply the layout in vertical direction." alt="" coords="480,95,662,135"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="695,100,663,105,663,100,695,95"/>
+<area shape="rect" id="Node000003" href="$classhbchart_1_1_flow_chart_layouter.html#ab056b77e92f7ef069a671d7292233703" title="Layout the flowchart subgraph." alt="" coords="243,29,425,70"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="464,52,426,52,426,47,464,47"/>
+<area shape="rect" id="Node000005" href="$classhbchart_1_1_flow_chart_layouter.html#ad8c962ed3fa90a9c8abec1285449754e" title="Precompute the bounds of the flowchart subgraph." alt="" coords="236,95,432,135"/>
+<area shape="poly" id="edge5_Node000002_Node000005" title=" " alt="" coords="481,77,411,97,410,91,480,72"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="373,16,358,10,334,8,311,10,297,15,292,21,294,28,289,29,287,19,294,10,310,5,334,3,359,5,375,11"/>
+<area shape="rect" id="Node000004" href="$classhbchart_1_1_flow_chart_layouter.html#ad1b50bb41df7adc2e8db2b14facf9072" title="Apply the layout." alt="" coords="5,63,188,103"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="227,67,189,73,188,68,227,62"/>
+<area shape="poly" id="edge6_Node000005_Node000004" title=" " alt="" coords="220,102,188,98,189,93,220,97"/>
+<area shape="poly" id="edge8_Node000006_Node000003" title=" " alt="" coords="480,93,410,73,411,68,481,88"/>
+<area shape="poly" id="edge9_Node000006_Node000005" title=" " alt="" coords="464,118,433,118,433,112,464,112"/>
+</map>

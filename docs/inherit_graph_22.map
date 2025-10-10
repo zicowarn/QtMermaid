@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classhbchart_1_1_renderer.html" title="The interface for the QtMermaid Renderer." alt="" coords="5,31,131,56"/>
+<area shape="rect" id="Node000001" href="$classhbchart_1_1_flow_renderer.html" title="The FlowRenderer class. ihnerits from Renderer." alt="" coords="181,5,334,31"/>
+<area shape="poly" id="edge7_Node000000_Node000001" title=" " alt="" coords="146,30,180,26,180,31,146,36"/>
+<area shape="rect" id="Node000002" href="$classhbchart_1_1_gantt_renderer.html" title="The GanttRenderer class. ihnerits from Renderer." alt="" coords="179,55,336,80"/>
+<area shape="poly" id="edge8_Node000000_Node000002" title=" " alt="" coords="146,51,178,55,178,60,146,56"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="hbchart::FlowChartLabel::sizeForLabel" name="hbchart::FlowChartLabel::sizeForLabel">
+<area shape="rect" id="Node000001" title="Adjust size to fit text." alt="" coords="428,5,591,46"/>
+<area shape="rect" id="Node000002" href="$classhbchart_1_1_flow_chart_label.html#a1f0ec49554fa0416c8204614dfbf2f7a" title="Adjust size to fit text." alt="" coords="217,5,380,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="413,28,380,28,380,23,413,23"/>
+<area shape="rect" id="Node000003" href="$classhbchart_1_1_flow_chart_label.html#aedc84535e710231818a64e7ab72e248e" title="Constructor." alt="" coords="5,5,169,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="201,28,169,28,169,23,201,23"/>
+</map>

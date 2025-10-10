@@ -1,0 +1,7 @@
+<map id="hbchart::GanttChartCoordPath::setLabel" name="hbchart::GanttChartCoordPath::setLabel">
+<area shape="rect" id="Node000001" title="Set the label format string." alt="" coords="5,39,177,79"/>
+<area shape="rect" id="Node000002" href="$classhbchart_1_1_gantt_chart_coord_path.html#a38d2c3bf5fb11bd7ab51e60a682697db" title=" " alt="" coords="225,5,441,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="177,45,209,40,209,45,178,50"/>
+<area shape="rect" id="Node000003" href="$classhbchart_1_1_gantt_chart_coord_path.html#a693b171a5206b487a93075694a64c275" title="Update the rect of the label." alt="" coords="247,71,418,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="178,68,232,75,231,80,177,73"/>
+</map>

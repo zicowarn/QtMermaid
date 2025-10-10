@@ -1,0 +1,15 @@
+<map id="hbchart::TimeUnitType::toSeconds" name="hbchart::TimeUnitType::toSeconds">
+<area shape="rect" id="Node000001" title="Convert model to seconds." alt="" coords="510,76,663,117"/>
+<area shape="rect" id="Node000002" href="$classhbchart_1_1_gantt_chart_coordinate.html#add29d895dd407f49473cad9dca4c8b97" title="Calculate the x&#45;axis primary grid line." alt="" coords="253,27,462,67"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="495,79,454,71,455,65,496,74"/>
+<area shape="rect" id="Node000004" href="$namespacehbchart.html#aa6e7b4a0d395076c18342cbf6b9149e5" title=" " alt="" coords="291,112,424,137"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="495,110,425,119,424,114,494,105"/>
+<area shape="rect" id="Node000003" href="$classhbchart_1_1_gantt_chart_coordinate.html#a39c12d0e0cf713e79f9d0db6bce56f77" title="Update the coordinate." alt="" coords="5,5,205,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="237,40,205,37,206,31,237,34"/>
+<area shape="rect" id="Node000005" href="$classhbchart_1_1_gantt_chart_model.html#afd479a24c63744d8e28bbcdd791e5b12" title="Add a milestone." alt="" coords="19,71,191,111"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="275,116,191,105,192,100,276,111"/>
+<area shape="rect" id="Node000006" href="$classhbchart_1_1_gantt_chart_model.html#aa054d70b13c43f2a546d55af6e99920c" title="Add a task." alt="" coords="19,136,191,177"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="276,137,192,148,191,143,275,132"/>
+<area shape="rect" id="Node000007" href="$classhbchart_1_1_gantt_chart_model.html#a850311474bd2f28e5bcb0b567576534c" title="Set the base time." alt="" coords="19,201,191,242"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="313,146,206,191,171,203,169,198,204,186,311,141"/>
+</map>

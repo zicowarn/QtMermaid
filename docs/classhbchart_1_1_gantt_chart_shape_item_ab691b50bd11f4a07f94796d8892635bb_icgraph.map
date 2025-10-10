@@ -1,0 +1,11 @@
+<map id="hbchart::GanttChartShapeItem::setXLimits" name="hbchart::GanttChartShapeItem::setXLimits">
+<area shape="rect" id="Node000001" title="Set X limits." alt="" coords="474,51,647,91"/>
+<area shape="rect" id="Node000002" href="$classhbchart_1_1_gantt_chart_layouter.html#ac22499649129c89432048926560da808" title="Layout the milestone." alt="" coords="240,5,426,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="458,53,426,47,427,42,459,48"/>
+<area shape="rect" id="Node000004" href="$classhbchart_1_1_gantt_chart_layouter.html#aa8d93a7ac3b0b89b08a0176315711e34" title="Layout the task." alt="" coords="240,95,426,135"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="459,93,427,100,426,94,458,88"/>
+<area shape="rect" id="Node000003" href="$classhbchart_1_1_gantt_chart_layouter.html#a7dbf453e08949adddea638bf01f4b61e" title="Layout the chart. This method should be called after the model is set." alt="" coords="5,51,192,91"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="225,49,193,56,192,50,224,44"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="224,97,192,91,193,86,225,92"/>
+<area shape="poly" id="edge5_Node000004_Node000004" title=" " alt="" coords="370,82,356,76,333,73,311,75,298,80,293,86,295,93,290,95,288,85,295,76,310,70,333,68,357,70,372,77"/>
+</map>

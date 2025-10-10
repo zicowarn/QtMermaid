@@ -1,0 +1,5 @@
+<map id="hbchart::ShapeItemDiamond::adjustSizeToText" name="hbchart::ShapeItemDiamond::adjustSizeToText">
+<area shape="rect" id="Node000001" title="Adjust size to fit text." alt="" coords="5,5,193,46"/>
+<area shape="rect" id="Node000002" href="$classhbchart_1_1_flow_chart_shape_item.html#a2895baf5c3dddd88eca025ae38cdeb3a" title="Calculate label size." alt="" coords="241,5,436,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="193,23,225,23,225,28,193,28"/>
+</map>

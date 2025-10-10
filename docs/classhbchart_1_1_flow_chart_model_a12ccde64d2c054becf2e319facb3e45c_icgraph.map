@@ -1,0 +1,20 @@
+<map id="hbchart::FlowChartModel::nodes" name="hbchart::FlowChartModel::nodes">
+<area shape="rect" id="Node000001" title="Get the nodes." alt="" coords="696,124,864,165"/>
+<area shape="rect" id="Node000002" href="$classhbchart_1_1_flow_chart_scene.html#ab34185d5fb70ff782591a0f3599b4a11" title="Add nodes to the scene recursively." alt="" coords="472,29,642,70"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="722,119,647,85,616,73,618,68,649,81,724,114"/>
+<area shape="rect" id="Node000004" href="$classhbchart_1_1_flow_chart_layouter.html#a9b64107e403635246d2240ca271a1c0d" title="Adjust the position of the subgraph children." alt="" coords="466,95,648,135"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="681,134,649,130,649,124,681,129"/>
+<area shape="rect" id="Node000005" href="$classhbchart_1_1_flow_chart_layouter.html#ab056b77e92f7ef069a671d7292233703" title="Layout the flowchart subgraph." alt="" coords="236,117,418,158"/>
+<area shape="poly" id="edge11_Node000001_Node000005" title=" " alt="" coords="681,149,648,150,557,151,466,150,418,147,419,142,466,144,557,146,648,144,681,144"/>
+<area shape="rect" id="Node000007" href="$classhbchart_1_1_flow_chart_layouter.html#aefdce5910840b3430d0e2b1eed31dcfb" title="Collect the subgraph levels." alt="" coords="236,207,418,247"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="682,165,419,213,418,208,681,160"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="593,16,580,10,557,8,536,10,523,15,518,21,520,28,515,29,513,19,520,10,535,5,557,3,581,5,596,11"/>
+<area shape="rect" id="Node000003" href="$classhbchart_1_1_flow_chart_scene.html#a1a113b78800aabdbbe80f2bd60eae191" title="Update the scene." alt="" coords="242,28,412,69"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="457,52,412,51,412,46,457,46"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="451,128,419,131,418,126,451,123"/>
+<area shape="poly" id="edge7_Node000005_Node000005" title=" " alt="" coords="364,104,350,98,327,96,305,98,292,103,286,109,289,116,283,117,281,107,288,98,304,93,327,91,352,93,366,99"/>
+<area shape="rect" id="Node000006" href="$classhbchart_1_1_flow_chart_layouter.html#ad1b50bb41df7adc2e8db2b14facf9072" title="Apply the layout." alt="" coords="5,163,188,203"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="221,161,189,168,188,162,220,156"/>
+<area shape="poly" id="edge9_Node000007_Node000006" title=" " alt="" coords="220,209,188,203,189,198,221,204"/>
+<area shape="poly" id="edge10_Node000007_Node000007" title=" " alt="" coords="364,194,350,188,327,185,305,187,292,192,286,198,289,205,283,207,281,197,288,188,304,182,327,180,352,182,366,189"/>
+</map>

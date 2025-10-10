@@ -1,0 +1,7 @@
+<map id="hbchart::GanttChartItemMilestone::sizeForLabel" name="hbchart::GanttChartItemMilestone::sizeForLabel">
+<area shape="rect" id="Node000001" title="Adjust size to fit text." alt="" coords="272,39,490,79"/>
+<area shape="rect" id="Node000002" href="$classhbchart_1_1_gantt_chart_item_milestone.html#a242138f22f33781d0fb17b1346b2f3fa" title="Bounding rectangle." alt="" coords="5,5,224,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="256,46,224,42,225,37,256,41"/>
+<area shape="rect" id="Node000003" href="$classhbchart_1_1_gantt_chart_item_milestone.html#a997c21866c5d820ae3da22123d203798" title="Paint." alt="" coords="5,71,224,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="256,77,225,80,224,75,256,71"/>
+</map>

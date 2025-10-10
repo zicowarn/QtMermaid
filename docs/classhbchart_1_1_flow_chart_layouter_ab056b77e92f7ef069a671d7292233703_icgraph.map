@@ -1,0 +1,6 @@
+<map id="hbchart::FlowChartLayouter::layoutSubgraph" name="hbchart::FlowChartLayouter::layoutSubgraph">
+<area shape="rect" id="Node000001" title="Layout the flowchart subgraph." alt="" coords="236,29,418,70"/>
+<area shape="poly" id="edge2_Node000001_Node000001" title=" " alt="" coords="364,16,350,10,327,8,305,10,292,15,286,21,289,28,283,29,281,19,288,10,304,5,327,3,352,5,366,11"/>
+<area shape="rect" id="Node000002" href="$classhbchart_1_1_flow_chart_layouter.html#ad1b50bb41df7adc2e8db2b14facf9072" title="Apply the layout." alt="" coords="5,29,188,70"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="220,52,188,52,188,47,220,47"/>
+</map>

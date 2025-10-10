@@ -1,0 +1,7 @@
+<map id="hbchart::FlowChartModel::addNode" name="hbchart::FlowChartModel::addNode">
+<area shape="rect" id="Node000001" title="Add a node." alt="" coords="221,29,388,70"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="339,16,326,10,304,8,284,10,271,15,267,21,269,28,264,29,262,19,268,10,283,5,304,3,328,5,342,11"/>
+<area shape="rect" id="Node000002" href="$classhbchart_1_1_flow_chart_model.html#a4249dc48d2f3b1a0e08a1aed540da9ef" title="Add a subgraph." alt="" coords="5,29,173,70"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="205,52,173,52,173,47,205,47"/>
+<area shape="poly" id="edge3_Node000002_Node000002" title=" " alt="" coords="124,16,111,10,89,8,69,10,56,15,51,21,53,28,48,29,46,19,53,10,67,5,89,3,112,5,126,11"/>
+</map>

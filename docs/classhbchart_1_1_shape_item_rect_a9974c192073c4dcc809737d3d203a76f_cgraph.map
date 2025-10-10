@@ -1,0 +1,5 @@
+<map id="hbchart::ShapeItemRect::getVerticalEdge" name="hbchart::ShapeItemRect::getVerticalEdge">
+<area shape="rect" id="Node000001" title="Get vertical boundary." alt="" coords="5,5,169,46"/>
+<area shape="rect" id="Node000002" href="$classhbchart_1_1_shape_item_rect.html#a3cf0ca6755d016014bc19b97fad436fc" title="Inner rectangle." alt="" coords="217,5,380,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="169,23,201,23,201,28,169,28"/>
+</map>

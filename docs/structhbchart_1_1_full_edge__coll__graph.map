@@ -1,0 +1,7 @@
+<map id="hbchart::FullEdge" name="hbchart::FullEdge">
+<area shape="rect" id="Node000001" title="FullEdge." alt="" coords="41,197,165,223"/>
+<area shape="rect" id="Node000002" href="$classhbchart_1_1_flow_chart_shape_item.html" title="Flowchart shape." alt="" coords="5,80,201,106"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="106,122,106,197,100,197,100,122"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="42,5,164,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="106,46,106,80,100,80,100,46"/>
+</map>

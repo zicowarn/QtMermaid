@@ -1,0 +1,9 @@
+<map id="hbchart::QtMermaidEditor::updateContent" name="hbchart::QtMermaidEditor::updateContent">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,71,176,111"/>
+<area shape="rect" id="Node000002" href="$classhbchart_1_1_highlighter_factory.html#ad5039594ff3ae5ada7e8617c444282ce" title=" " alt="" coords="224,5,402,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="161,68,226,48,227,54,163,73"/>
+<area shape="rect" id="Node000003" href="$classhbchart_1_1_parser_factory.html#affea4550dc386d4664312e03012551e2" title=" " alt="" coords="236,71,390,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="176,88,220,88,220,94,176,94"/>
+<area shape="rect" id="Node000004" href="$classhbchart_1_1_renderer_factory.html#a21c9b1bc5c76d0863ad133f405856cdc" title="Create a chart renderer." alt="" coords="228,136,398,177"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="163,109,227,128,226,134,161,114"/>
+</map>

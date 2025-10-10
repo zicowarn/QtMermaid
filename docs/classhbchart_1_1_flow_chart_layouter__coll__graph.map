@@ -1,0 +1,22 @@
+<map id="hbchart::FlowChartLayouter" name="hbchart::FlowChartLayouter">
+<area shape="rect" id="Node000001" title="Flowchart layouter." alt="" coords="501,295,684,321"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="576,5,646,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="624,45,640,102,641,159,630,215,615,263,601,296,596,294,610,261,625,214,636,159,635,102,619,46"/>
+<area shape="rect" id="Node000005" href="$classhbchart_1_1_flow_chart_model.html" title="The FlowChartModel class." alt="" coords="337,102,504,128"/>
+<area shape="poly" id="edge5_Node000005_Node000002" title=" " alt="" coords="574,41,446,104,444,99,572,36"/>
+<area shape="rect" id="Node000003" href="$classhbchart_1_1_flow_chart_scene.html" title="Flowchart scene." alt="" coords="236,199,405,224"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="343,233,366,253,392,269,446,287,501,298,500,303,445,293,390,274,363,257,340,238"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="192,102,312,128"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="272,139,314,196,309,200,268,142"/>
+<area shape="poly" id="edge10_Node000001_Node000005" title=" " alt="" coords="443,138,584,293,580,297,439,141"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="399,140,335,200,331,196,395,136"/>
+<area shape="poly" id="edge7_Node000005_Node000005" title=" " alt="" coords="521,107,531,115,523,123,505,126,504,121,520,118,525,115,518,111"/>
+<area shape="rect" id="Node000006" href="$structhbchart_1_1_flow_title.html" title="GanttChart Title." alt="" coords="358,5,483,31"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="423,46,423,101,418,101,418,46"/>
+<area shape="rect" id="Node000007" href="$classhbchart_1_1_flow_chart_label.html" title="FlowChart rounded rectangle shape." alt="" coords="5,102,169,128"/>
+<area shape="poly" id="edge8_Node000003_Node000007" title=" " alt="" coords="122,133,200,172,272,196,270,201,198,177,119,138"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="26,5,148,31"/>
+<area shape="poly" id="edge9_Node000007_Node000008" title=" " alt="" coords="90,46,90,101,84,101,84,46"/>
+<area shape="rect" id="Node000009" href="$structhbchart_1_1_layer_info.html" title="Layer information." alt="" coords="700,199,826,224"/>
+<area shape="poly" id="edge11_Node000001_Node000009" title=" " alt="" coords="739,236,683,274,630,297,627,292,680,269,736,232"/>
+</map>

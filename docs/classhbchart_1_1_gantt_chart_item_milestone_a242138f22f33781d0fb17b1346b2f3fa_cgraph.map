@@ -1,0 +1,11 @@
+<map id="hbchart::GanttChartItemMilestone::boundingRect" name="hbchart::GanttChartItemMilestone::boundingRect">
+<area shape="rect" id="Node000001" title="Bounding rectangle." alt="" coords="5,71,224,111"/>
+<area shape="rect" id="Node000002" href="$classhbchart_1_1_gantt_chart_item_milestone.html#a6fc9932dcb23d264661a264b489c9d80" title="Inner rectangle." alt="" coords="272,5,490,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="200,67,280,48,281,53,201,73"/>
+<area shape="rect" id="Node000003" href="$classhbchart_1_1_gantt_chart_shape_item.html#a416544ff2bbae35442b2355742a611f0" title="Get margin." alt="" coords="294,71,468,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="224,88,278,88,278,94,224,94"/>
+<area shape="rect" id="Node000004" href="$classhbchart_1_1_gantt_chart_item_milestone.html#ac395485955e7c5851b7cbd3509771031" title="Adjust size to fit text." alt="" coords="272,136,490,177"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="201,109,281,129,280,134,200,115"/>
+<area shape="rect" id="Node000005" href="$classhbchart_1_1_gantt_chart_item_milestone.html#a6f898ac01cd1c115486f91de3bfe3565" title="Get text." alt="" coords="538,136,756,177"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="491,154,522,154,522,159,491,159"/>
+</map>

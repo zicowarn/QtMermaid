@@ -1,0 +1,11 @@
+<map id="hbchart::ShapeItemRect::innerRect" name="hbchart::ShapeItemRect::innerRect">
+<area shape="rect" id="Node000001" title="Inner rectangle." alt="" coords="217,104,380,145"/>
+<area shape="rect" id="Node000002" href="$classhbchart_1_1_shape_item_rect.html#a968a97372f91fbb25f7937cc474bdedc" title="Intersection point calculation method." alt="" coords="5,5,169,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="244,99,168,61,139,49,142,44,170,57,246,94"/>
+<area shape="rect" id="Node000003" href="$classhbchart_1_1_shape_item_rect.html#a8edec7eb72297893a7e70b7cebbee959" title="Get horizontal boundary." alt="" coords="5,71,169,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="201,112,169,107,170,101,202,106"/>
+<area shape="rect" id="Node000004" href="$classhbchart_1_1_shape_item_rect.html#a9974c192073c4dcc809737d3d203a76f" title="Get vertical boundary." alt="" coords="5,136,169,177"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="202,142,170,147,169,141,201,136"/>
+<area shape="rect" id="Node000005" href="$classhbchart_1_1_shape_item_rect.html#ad2b7fcf61cda95bb4a1ed3ca1cc33c7a" title="Paint." alt="" coords="5,201,169,242"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="244,155,170,191,141,203,139,198,168,186,242,150"/>
+</map>

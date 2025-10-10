@@ -1,0 +1,7 @@
+<map id="hbchart::SubgraphShapeItemRect::setSize" name="hbchart::SubgraphShapeItemRect::setSize">
+<area shape="rect" id="Node000001" title="Set size." alt="" coords="5,39,196,79"/>
+<area shape="rect" id="Node000002" href="$classhbchart_1_1_subgraph_shape_item_rect.html#ad024c1dd1ca443b407c18345e5941083" title="Get size." alt="" coords="244,5,434,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="196,43,228,38,229,44,197,48"/>
+<area shape="rect" id="Node000003" href="$classhbchart_1_1_subgraph_shape_item_rect.html#a05c0d05f6a27cf97b7ebcb4596be26d3" title="Update inner rectangle." alt="" coords="244,71,434,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="197,69,229,74,228,79,196,74"/>
+</map>

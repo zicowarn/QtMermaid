@@ -1,0 +1,17 @@
+<map id="hbchart::GanttChartModel::eventModelDataChanged" name="hbchart::GanttChartModel::eventModelDataChanged">
+<area shape="rect" id="Node000001" title="Data change signal." alt="" coords="225,201,401,242"/>
+<area shape="rect" id="Node000002" href="$classhbchart_1_1_gantt_chart_model.html#afd479a24c63744d8e28bbcdd791e5b12" title="Add a milestone." alt="" coords="5,5,177,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="289,190,241,125,210,91,175,61,154,49,157,44,178,57,214,87,245,122,293,186"/>
+<area shape="rect" id="Node000003" href="$classhbchart_1_1_gantt_chart_model.html#a85957e3ef0eb78dbf868caa90776f50e" title="Add a section." alt="" coords="5,71,177,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="273,194,228,160,175,127,150,114,152,110,178,122,231,155,277,189"/>
+<area shape="rect" id="Node000004" href="$classhbchart_1_1_gantt_chart_model.html#aa054d70b13c43f2a546d55af6e99920c" title="Add a task." alt="" coords="5,136,177,177"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="226,199,162,180,164,175,228,194"/>
+<area shape="rect" id="Node000005" href="$classhbchart_1_1_gantt_chart_model.html#ac7f2f6580c5689a876ce3833480550cd" title="Clear the model." alt="" coords="5,201,177,242"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="209,224,177,224,177,219,209,219"/>
+<area shape="rect" id="Node000006" href="$classhbchart_1_1_gantt_chart_model.html#a850311474bd2f28e5bcb0b567576534c" title="Set the base time." alt="" coords="5,267,177,307"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="228,249,164,269,162,263,226,244"/>
+<area shape="rect" id="Node000007" href="$classhbchart_1_1_gantt_chart_model.html#a12d081cb863e29e72e8db9859653eaca" title="Set the time unit type." alt="" coords="5,332,177,373"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="277,254,231,288,178,321,152,334,150,329,175,317,228,284,273,250"/>
+<area shape="rect" id="Node000008" href="$classhbchart_1_1_gantt_chart_model.html#a6b1ab4f4716c749c5e2c9cadb19b2160" title="Set the title." alt="" coords="5,397,177,438"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="293,257,245,322,214,356,178,387,157,399,154,395,175,382,210,352,241,318,289,254"/>
+</map>

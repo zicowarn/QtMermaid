@@ -1,0 +1,7 @@
+<map id="hbchart::FlowChartScene::addNode" name="hbchart::FlowChartScene::addNode">
+<area shape="rect" id="Node000001" title="Add a node or subgraph to the scene (exclude virtual nodes)" alt="" coords="5,39,175,79"/>
+<area shape="rect" id="Node000002" href="$classhbchart_1_1_flow_chart_model.html#aca5865286cafbe11e33a6eba1c775c7d" title="Get the level." alt="" coords="223,5,390,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="175,43,207,38,208,44,176,49"/>
+<area shape="rect" id="Node000003" href="$classhbchart_1_1_flow_chart_model.html#a6bd1ff92d748339f1f07beb94e1756fe" title="Get the model ID." alt="" coords="223,71,390,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="176,69,208,74,207,79,175,74"/>
+</map>

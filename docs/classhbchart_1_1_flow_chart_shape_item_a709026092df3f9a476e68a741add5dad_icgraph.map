@@ -1,0 +1,10 @@
+<map id="hbchart::FlowChartShapeItem::getLabel" name="hbchart::FlowChartShapeItem::getLabel">
+<area shape="rect" id="Node000001" title="Get text." alt="" coords="726,35,922,75"/>
+<area shape="rect" id="Node000002" href="$classhbchart_1_1_flow_chart_connector.html#aef41973c2bd754a16959b2c732e169fd" title="Calculate the control points of the connection line." alt="" coords="486,5,678,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="710,44,678,40,679,35,711,39"/>
+<area shape="rect" id="Node000003" href="$classhbchart_1_1_flow_chart_connector.html#abca3b3ec865c24b393dff92d92917f04" title="Render all connection lines." alt="" coords="246,35,438,75"/>
+<area shape="poly" id="edge4_Node000001_Node000003" title=" " alt="" coords="711,60,678,60,486,60,438,60,438,54,486,55,678,55,711,55"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="471,42,439,46,438,41,470,37"/>
+<area shape="rect" id="Node000004" href="$classhbchart_1_1_flow_chart_connector.html#a203b1e12ef5223b261ccb2abe13fc5f8" title="Draw all connection lines." alt="" coords="5,35,198,75"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="230,58,198,58,198,52,230,52"/>
+</map>

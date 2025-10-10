@@ -1,0 +1,5 @@
+<map id="hbchart::GanttChartCoordPath::GanttChartCoordPath" name="hbchart::GanttChartCoordPath::GanttChartCoordPath">
+<area shape="rect" id="Node000001" title="Constructor." alt="" coords="5,5,188,46"/>
+<area shape="rect" id="Node000002" href="$classhbchart_1_1_gantt_chart_coord_path.html#a693b171a5206b487a93075694a64c275" title="Update the rect of the label." alt="" coords="236,5,407,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="188,23,220,23,220,28,188,28"/>
+</map>

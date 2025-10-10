@@ -1,0 +1,9 @@
+<map id="hbchart::SubgraphShapeItemRect::adjustSizeToText" name="hbchart::SubgraphShapeItemRect::adjustSizeToText">
+<area shape="rect" id="Node000001" title="Adjust size to fit text." alt="" coords="5,71,196,111"/>
+<area shape="rect" id="Node000002" href="$classhbchart_1_1_subgraph_shape_item_rect.html#ad024c1dd1ca443b407c18345e5941083" title="Get size." alt="" coords="246,5,436,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="177,68,248,48,250,53,179,73"/>
+<area shape="rect" id="Node000003" href="$classhbchart_1_1_flow_chart_shape_item.html#a2895baf5c3dddd88eca025ae38cdeb3a" title="Calculate label size." alt="" coords="244,71,439,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="196,88,228,88,228,94,196,94"/>
+<area shape="rect" id="Node000004" href="$classhbchart_1_1_subgraph_shape_item_rect.html#a05c0d05f6a27cf97b7ebcb4596be26d3" title="Update inner rectangle." alt="" coords="246,136,436,177"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="179,109,250,129,248,134,177,114"/>
+</map>

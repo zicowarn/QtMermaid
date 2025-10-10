@@ -1,0 +1,21 @@
+<map id="hbchart::FlowChartScene::updateScene" name="hbchart::FlowChartScene::updateScene">
+<area shape="rect" id="Node000001" title="Update the scene." alt="" coords="5,161,175,202"/>
+<area shape="rect" id="Node000002" href="$classhbchart_1_1_flow_chart_scene.html#ab34185d5fb70ff782591a0f3599b4a11" title="Add nodes to the scene recursively." alt="" coords="223,128,392,169"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="175,166,207,161,208,166,175,171"/>
+<area shape="rect" id="Node000009" href="$classhbchart_1_1_flow_chart_scene.html#a54f3567bb8d565357c4bc60b2c465a89" title="Add a title to the scene." alt="" coords="223,193,392,234"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="175,191,208,196,207,202,175,197"/>
+<area shape="poly" id="edge5_Node000002_Node000002" title=" " alt="" coords="266,128,264,118,271,109,285,103,307,101,331,104,345,110,343,115,330,109,307,107,287,109,274,113,269,119,271,127"/>
+<area shape="rect" id="Node000003" href="$classhbchart_1_1_flow_chart_scene.html#af217d78c2d34f46d4db737d414ea7544" title="Add a node or subgraph to the scene (exclude virtual nodes)" alt="" coords="440,13,609,54"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="341,125,439,70,461,59,464,63,441,75,344,130"/>
+<area shape="rect" id="Node000005" href="$classhbchart_1_1_flow_chart_model.html#a6bd1ff92d748339f1f07beb94e1756fe" title="Get the model ID." alt="" coords="657,71,825,111"/>
+<area shape="poly" id="edge7_Node000002_Node000005" title=" " alt="" coords="386,125,440,114,544,100,642,93,642,98,544,106,440,119,387,130"/>
+<area shape="rect" id="Node000006" href="$classhbchart_1_1_flow_chart_scene.html#ab4d83039d3dd80c13a5eb3fabd89f115" title="Add a virtual node to the scene." alt="" coords="440,128,609,169"/>
+<area shape="poly" id="edge6_Node000002_Node000006" title=" " alt="" coords="392,146,424,146,424,151,392,151"/>
+<area shape="rect" id="Node000007" href="$classhbchart_1_1_flow_chart_model.html#a12ccde64d2c054becf2e319facb3e45c" title="Get the nodes." alt="" coords="441,193,608,234"/>
+<area shape="poly" id="edge8_Node000002_Node000007" title=" " alt="" coords="378,167,441,186,439,191,376,172"/>
+<area shape="rect" id="Node000008" href="$classhbchart_1_1_flow_chart_model.html#aa2ca5a85581bd713b7536d9b88691f61" title="Get the virtual nodes." alt="" coords="441,259,608,299"/>
+<area shape="poly" id="edge9_Node000002_Node000008" title=" " alt="" coords="373,167,394,180,410,196,418,212,427,228,442,244,449,249,446,253,438,248,422,231,414,215,405,199,390,184,370,171"/>
+<area shape="rect" id="Node000004" href="$classhbchart_1_1_flow_chart_model.html#aca5865286cafbe11e33a6eba1c775c7d" title="Get the level." alt="" coords="657,5,825,46"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="610,28,642,27,642,32,610,33"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="604,52,648,64,646,69,603,57"/>
+</map>

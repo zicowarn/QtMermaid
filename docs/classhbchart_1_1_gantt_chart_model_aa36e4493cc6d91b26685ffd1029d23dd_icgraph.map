@@ -1,0 +1,10 @@
+<map id="hbchart::GanttChartModel::calculateTaskRows" name="hbchart::GanttChartModel::calculateTaskRows">
+<area shape="rect" id="Node000001" title="Calculate the number of rows of a task." alt="" coords="444,39,615,79"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="565,26,552,20,530,17,509,19,496,24,491,30,493,37,488,39,486,29,493,20,508,14,530,12,553,14,568,21"/>
+<area shape="rect" id="Node000002" href="$classhbchart_1_1_gantt_chart_model.html#ac3926fc0ab611d54c31f0cacb0b0ace6" title="Get task total number of rows." alt="" coords="225,5,396,46"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="428,46,396,41,397,36,429,41"/>
+<area shape="rect" id="Node000003" href="$classhbchart_1_1_gantt_chart_model.html#ade5c208584d87ac8def85ed772d8dc44" title="Update the section infos." alt="" coords="225,71,396,111"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="429,76,397,81,396,76,428,71"/>
+<area shape="rect" id="Node000004" href="$classhbchart_1_1_gantt_chart_model.html#a5443f495ffdf7995fcd60011abeb08b8" title="Get the sections list." alt="" coords="5,71,177,111"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="209,94,177,94,177,88,209,88"/>
+</map>

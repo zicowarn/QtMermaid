@@ -1,0 +1,5 @@
+<map id="hbchart::FlowChartScene::getGridSize" name="hbchart::FlowChartScene::getGridSize">
+<area shape="rect" id="Node000001" title="Get the grid size." alt="" coords="223,5,392,46"/>
+<area shape="rect" id="Node000002" href="$classhbchart_1_1_flow_chart_scene.html#a50119246e62096f74835c55cd21a3ad0" title="Draw background." alt="" coords="5,5,175,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="207,28,175,28,175,23,207,23"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="hbchart::QtMermaidTextEdit::QtMermaidTextEdit" name="hbchart::QtMermaidTextEdit::QtMermaidTextEdit">
+<area shape="rect" id="Node000001" title="Constructor." alt="" coords="5,71,190,111"/>
+<area shape="rect" id="Node000002" href="$classhbchart_1_1_qt_mermaid_text_edit.html#af6cd8440312ca28851f364d78b931f17" title="Highlight the current line." alt="" coords="238,5,422,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="171,68,239,48,241,53,173,73"/>
+<area shape="rect" id="Node000003" href="$classhbchart_1_1_qt_mermaid_text_edit.html#a0e228b6e8d796c8db1eaf7dfcdcea6c8" title="Update line number area." alt="" coords="238,71,422,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="190,88,222,88,222,94,190,94"/>
+<area shape="rect" id="Node000004" href="$classhbchart_1_1_qt_mermaid_text_edit.html#a9a42826462a5d68d7c4e9228fce41f77" title="Update the width of the line number area." alt="" coords="470,100,686,141"/>
+<area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="176,109,238,120,349,127,454,126,454,131,349,132,237,126,175,115"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="423,99,455,103,454,108,422,105"/>
+<area shape="rect" id="Node000005" href="$classhbchart_1_1_qt_mermaid_text_edit.html#ab211c8ab2e0829e051b066a826e06ff8" title="Calculate the width of the line number area." alt="" coords="734,100,919,141"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="687,118,719,118,719,123,687,123"/>
+</map>

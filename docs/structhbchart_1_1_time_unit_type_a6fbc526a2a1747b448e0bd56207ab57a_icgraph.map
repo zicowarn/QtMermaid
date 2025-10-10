@@ -1,0 +1,34 @@
+<map id="hbchart::TimeUnitType::fromSeconds" name="hbchart::TimeUnitType::fromSeconds">
+<area shape="rect" id="Node000001" title="Convert seconds to model." alt="" coords="917,205,1070,246"/>
+<area shape="rect" id="Node000002" href="$classhbchart_1_1_gantt_chart_scene.html#aef27670130d2f7092803786873182697" title="Add a task to the scene." alt="" coords="689,29,862,70"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="968,194,925,138,898,110,867,85,845,73,848,68,870,81,901,106,929,135,973,190"/>
+<area shape="rect" id="Node000006" href="$classhbchart_1_1_gantt_chart_scene.html#a0c2fcb101fa49c646769a34d232db223" title="Get the base time in scene units." alt="" coords="689,95,862,135"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="949,199,867,151,839,138,841,133,870,146,952,194"/>
+<area shape="rect" id="Node000007" href="$classhbchart_1_1_gantt_chart_scene.html#a049f770ec7b7972f1bd01ade724aba74" title="Get the max duration in scene units." alt="" coords="689,380,862,421"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="973,261,929,316,901,344,870,369,848,382,845,377,867,365,898,340,925,312,968,257"/>
+<area shape="rect" id="Node000010" href="$classhbchart_1_1_gantt_chart_layouter.html#ac22499649129c89432048926560da808" title="Layout the milestone." alt="" coords="682,315,869,355"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="951,257,870,304,841,317,839,312,867,299,949,252"/>
+<area shape="rect" id="Node000012" href="$classhbchart_1_1_gantt_chart_layouter.html#aa8d93a7ac3b0b89b08a0176315711e34" title="Layout the task." alt="" coords="682,249,869,290"/>
+<area shape="poly" id="edge13_Node000001_Node000012" title=" " alt="" coords="902,247,870,253,868,248,901,242"/>
+<area shape="rect" id="Node000013" href="$classhbchart_1_1_gantt_chart_scene.html#a46d6a0b0e4d14bab7a30306596e56639" title="Update the time range in scene units." alt="" coords="689,160,862,201"/>
+<area shape="poly" id="edge16_Node000001_Node000013" title=" " alt="" coords="901,209,862,201,863,196,902,204"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="811,16,798,10,775,8,755,10,742,15,737,21,739,28,734,29,732,19,739,10,754,5,776,3,799,5,813,11"/>
+<area shape="rect" id="Node000003" href="$classhbchart_1_1_gantt_chart_scene.html#ac51558805c75acc6bed4d576134497c5" title="Update the tasks in the scene." alt="" coords="454,48,628,89"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="674,60,628,64,628,59,673,55"/>
+<area shape="rect" id="Node000004" href="$classhbchart_1_1_gantt_chart_scene.html#aa19d93f47aca070ef0d2293a9463046a" title="Set the model." alt="" coords="227,141,400,182"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="476,98,366,143,364,138,474,93"/>
+<area shape="rect" id="Node000005" href="$classhbchart_1_1_gantt_chart_scene.html#a76368fb9dac97ad6e982da3b9e4a5da6" title="Update the scene." alt="" coords="5,141,179,182"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="211,164,179,164,179,159,211,159"/>
+<area shape="rect" id="Node000008" href="$classhbchart_1_1_gantt_chart_scene.html#ab302403efc86d3e2e1003ce35826d514" title="Update the scene_per_time ratio." alt="" coords="454,353,628,394"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="673,391,628,386,628,381,674,386"/>
+<area shape="poly" id="edge10_Node000008_Node000004" title=" " alt="" coords="478,348,446,326,408,291,374,251,326,184,330,181,379,248,412,287,450,322,481,343"/>
+<area shape="rect" id="Node000009" href="$classhbchart_1_1_gantt_chart_scene.html#a86084fb410934586d72c4f8ab7b1ad15" title="Set minimum chart width." alt="" coords="227,353,400,394"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="439,376,401,376,401,371,439,371"/>
+<area shape="rect" id="Node000011" href="$classhbchart_1_1_gantt_chart_layouter.html#a7dbf453e08949adddea638bf01f4b61e" title="Layout the chart. This method should be called after the model is set." alt="" coords="448,272,634,313"/>
+<area shape="poly" id="edge12_Node000010_Node000011" title=" " alt="" coords="666,318,634,312,635,307,667,313"/>
+<area shape="poly" id="edge14_Node000012_Node000011" title=" " alt="" coords="667,283,635,286,635,281,667,278"/>
+<area shape="poly" id="edge15_Node000012_Node000012" title=" " alt="" coords="811,236,798,230,775,228,755,230,742,235,737,241,739,248,734,249,732,239,739,230,754,225,776,223,799,225,813,231"/>
+<area shape="poly" id="edge18_Node000013_Node000004" title=" " alt="" coords="673,179,400,168,401,162,674,174"/>
+<area shape="rect" id="Node000014" href="$classhbchart_1_1_gantt_chart_scene.html#acfad9c616b9463a7f43ecbf47c968db7" title="Get the time range in scene units." alt="" coords="454,199,628,239"/>
+<area shape="poly" id="edge17_Node000013_Node000014" title=" " alt="" coords="674,200,629,207,628,202,673,194"/>
+</map>

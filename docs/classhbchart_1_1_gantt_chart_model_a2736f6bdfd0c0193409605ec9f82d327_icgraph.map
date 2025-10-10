@@ -1,0 +1,5 @@
+<map id="hbchart::GanttChartModel::getMilestoneTimeRange" name="hbchart::GanttChartModel::getMilestoneTimeRange">
+<area shape="rect" id="Node000001" title="Get the time range of a milestone." alt="" coords="225,5,396,46"/>
+<area shape="rect" id="Node000002" href="$classhbchart_1_1_gantt_chart_model.html#a8e1ab52f79bc04aeda8f1ce4b03f2237" title="Get the task by index." alt="" coords="5,5,177,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="209,28,177,28,177,23,209,23"/>
+</map>

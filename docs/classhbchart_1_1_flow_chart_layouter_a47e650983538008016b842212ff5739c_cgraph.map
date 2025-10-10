@@ -1,0 +1,9 @@
+<map id="hbchart::FlowChartLayouter::positionNodesInLayer" name="hbchart::FlowChartLayouter::positionNodesInLayer">
+<area shape="rect" id="Node000001" title="Position the nodes in the layer." alt="" coords="5,63,188,103"/>
+<area shape="rect" id="Node000002" href="$classhbchart_1_1_flow_chart_layouter.html#aaf07930a31975198f4a6ca09382ee5d9" title="Compute the total size of the layer." alt="" coords="236,5,418,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="180,60,227,48,228,53,181,65"/>
+<area shape="rect" id="Node000003" href="$namespacehbchart.html#a72670c50bf5b4de5db864a41cfc85495" title="Draw debug point, draw debug node information (text + small black dots)" alt="" coords="243,70,411,96"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="188,80,227,80,227,86,188,86"/>
+<area shape="rect" id="Node000004" href="$namespacehbchart.html#ad3d42176da51d17bbd554e3982e88b3b" title="Draw debug rectangle." alt="" coords="244,120,410,145"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="188,100,249,113,248,118,187,105"/>
+</map>

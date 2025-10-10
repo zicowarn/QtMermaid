@@ -1,0 +1,15 @@
+<map id="hbchart::FlowChartModel::dataChanged" name="hbchart::FlowChartModel::dataChanged">
+<area shape="rect" id="Node000001" title="Signal emitted when data changes." alt="" coords="436,148,603,189"/>
+<area shape="rect" id="Node000002" href="$classhbchart_1_1_flow_chart_model.html#aa1484e473eed6da275e0e378057dde9b" title="Add an edge." alt="" coords="221,29,388,70"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="477,141,387,85,361,73,363,68,389,81,479,137"/>
+<area shape="rect" id="Node000003" href="$classhbchart_1_1_flow_chart_model.html#a9807185d8e730c0b15db514a79c90674" title="Add a node." alt="" coords="221,119,388,159"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="420,157,388,153,389,148,421,152"/>
+<area shape="rect" id="Node000004" href="$classhbchart_1_1_flow_chart_model.html#a4249dc48d2f3b1a0e08a1aed540da9ef" title="Add a subgraph." alt="" coords="5,148,173,189"/>
+<area shape="poly" id="edge7_Node000001_Node000004" title=" " alt="" coords="420,173,388,174,221,174,173,173,173,168,221,168,388,168,420,168"/>
+<area shape="rect" id="Node000005" href="$classhbchart_1_1_flow_chart_model.html#a8588dfda685eeff74cd3c1efd2cba8d5" title="Clear the model." alt="" coords="221,233,388,274"/>
+<area shape="poly" id="edge8_Node000001_Node000005" title=" " alt="" coords="453,197,359,235,357,230,451,192"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="339,16,326,10,304,8,284,10,271,15,267,21,269,28,264,29,262,19,268,10,283,5,304,3,328,5,342,11"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="339,105,326,100,304,97,284,99,271,104,267,110,269,117,264,119,262,109,268,100,283,94,304,92,328,94,342,101"/>
+<area shape="poly" id="edge5_Node000003_Node000004" title=" " alt="" coords="206,155,174,160,173,154,205,150"/>
+<area shape="poly" id="edge6_Node000004_Node000004" title=" " alt="" coords="124,135,111,129,89,127,69,129,56,133,51,139,53,147,48,148,46,138,53,129,67,123,89,121,112,124,126,130"/>
+</map>

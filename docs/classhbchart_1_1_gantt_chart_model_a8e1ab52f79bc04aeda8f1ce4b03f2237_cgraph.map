@@ -1,0 +1,10 @@
+<map id="hbchart::GanttChartModel::getModelTimeRange" name="hbchart::GanttChartModel::getModelTimeRange">
+<area shape="rect" id="Node000001" title="Get the task by index." alt="" coords="5,39,177,79"/>
+<area shape="rect" id="Node000002" href="$classhbchart_1_1_gantt_chart_model.html#a2736f6bdfd0c0193409605ec9f82d327" title="Get the time range of a milestone." alt="" coords="225,5,396,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="176,43,209,38,209,44,177,49"/>
+<area shape="rect" id="Node000003" href="$classhbchart_1_1_gantt_chart_model.html#ac6cdf6f6dce39e8e9a6de73b7cef2254" title="Calculate the time range." alt="" coords="225,71,396,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="177,69,209,74,209,79,176,74"/>
+<area shape="rect" id="Node000004" href="$classhbchart_1_1_gantt_chart_model.html#aeba07e4b7b53d051b548bde4d26c2749" title="Calculate the time range of a task." alt="" coords="444,71,620,111"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="396,88,428,88,428,94,396,94"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="490,71,488,61,495,52,510,46,532,44,556,46,570,53,568,58,555,52,532,49,511,51,498,56,493,62,495,69"/>
+</map>

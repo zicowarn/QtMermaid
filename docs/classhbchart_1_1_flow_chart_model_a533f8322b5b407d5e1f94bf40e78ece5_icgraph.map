@@ -1,0 +1,40 @@
+<map id="hbchart::FlowChartModel::FlowChartModel" name="hbchart::FlowChartModel::FlowChartModel">
+<area shape="rect" id="Node000001" title="Constructor." alt="" coords="651,288,819,329"/>
+<area shape="poly" id="edge16_Node000001_Node000001" title=" " alt="" coords="770,275,757,269,735,267,715,269,702,273,697,279,699,287,694,288,692,278,699,269,713,263,735,261,758,264,772,270"/>
+<area shape="rect" id="Node000002" href="$classhbchart_1_1_flow_chart_model.html#aa1484e473eed6da275e0e378057dde9b" title="Add an edge." alt="" coords="5,181,173,222"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="636,295,173,218,174,213,636,289"/>
+<area shape="rect" id="Node000003" href="$classhbchart_1_1_flow_chart_model.html#a9807185d8e730c0b15db514a79c90674" title="Add a node." alt="" coords="221,541,388,582"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="714,344,668,401,638,431,605,457,552,488,496,513,389,546,388,541,494,508,550,483,602,453,634,427,664,398,709,340"/>
+<area shape="rect" id="Node000004" href="$classhbchart_1_1_flow_chart_model.html#a4249dc48d2f3b1a0e08a1aed540da9ef" title="Add a subgraph." alt="" coords="5,541,173,582"/>
+<area shape="poly" id="edge7_Node000001_Node000004" title=" " alt="" coords="725,344,709,388,683,440,649,492,605,536,556,570,511,593,468,607,425,614,381,614,333,610,220,596,162,585,163,580,221,591,334,605,381,609,425,608,467,602,509,588,553,565,602,532,645,488,679,437,704,386,721,342"/>
+<area shape="rect" id="Node000005" href="$classhbchart_1_1_flow_chart_model.html#aaf69cc3443795a171b4a799f931caaab" title="Signal emitted when data changes." alt="" coords="436,403,603,443"/>
+<area shape="poly" id="edge8_Node000001_Node000005" title=" " alt="" coords="683,339,561,404,559,400,681,334"/>
+<area shape="rect" id="Node000007" href="$classhbchart_1_1_flow_chart_model.html#a3352bffd6aba4f1c935ed16449aaff90" title="Find a node." alt="" coords="221,288,388,329"/>
+<area shape="poly" id="edge13_Node000001_Node000007" title=" " alt="" coords="636,311,389,311,389,306,636,306"/>
+<area shape="rect" id="Node000008" href="$classhbchart_1_1_flow_chart_model.html#ab086554b2646509cf4921678943dbcb7" title="Get the root model." alt="" coords="436,29,603,70"/>
+<area shape="poly" id="edge17_Node000001_Node000008" title=" " alt="" coords="718,274,700,233,674,184,641,134,602,90,576,73,579,68,605,86,646,131,679,182,705,231,723,272"/>
+<area shape="rect" id="Node000009" href="$classhbchart_1_1_flow_chart_model.html#a5db0023fb8d76b373093480ce7ba899b" title="Check if the edge would create a cycle." alt="" coords="221,99,388,139"/>
+<area shape="poly" id="edge27_Node000001_Node000009" title=" " alt="" coords="717,276,699,240,674,201,641,164,602,135,550,115,494,105,439,104,389,107,388,102,439,98,495,100,551,110,605,130,645,160,678,198,704,237,722,273"/>
+<area shape="rect" id="Node000010" href="$classhbchart_1_1_flow_chart_model.html#a6a2dee73b3005e2ef0d218df15689b33" title="Get a subgraph." alt="" coords="436,656,603,697"/>
+<area shape="poly" id="edge23_Node000001_Node000010" title=" " alt="" coords="731,345,718,407,694,485,658,566,634,605,605,640,582,658,578,653,601,636,629,602,653,564,689,483,713,405,726,344"/>
+<area shape="rect" id="Node000011" href="$classhbchart_1_1_flow_chart_model.html#a6b0c5843d5cc21cb13ba9963207d1c6a" title="Check if the edge is cross&#45;sub&#45;graph edge." alt="" coords="436,168,603,209"/>
+<area shape="poly" id="edge24_Node000001_Node000011" title=" " alt="" coords="689,282,602,229,567,212,569,207,605,225,691,277"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="124,168,111,162,89,160,69,162,56,167,51,173,53,180,48,181,46,171,53,162,67,157,89,155,112,157,126,163"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="339,528,326,522,304,520,284,522,271,527,267,533,269,540,264,541,262,531,268,522,283,517,304,515,328,517,342,523"/>
+<area shape="poly" id="edge5_Node000003_Node000004" title=" " alt="" coords="205,564,173,564,173,559,205,559"/>
+<area shape="poly" id="edge6_Node000004_Node000004" title=" " alt="" coords="124,528,111,522,89,520,69,522,56,527,51,533,53,540,48,541,46,531,53,522,67,517,89,515,112,517,126,523"/>
+<area shape="poly" id="edge9_Node000005_Node000002" title=" " alt="" coords="420,401,297,368,219,343,182,315,149,283,102,224,106,221,153,279,186,311,222,338,298,363,422,396"/>
+<area shape="poly" id="edge10_Node000005_Node000003" title=" " alt="" coords="475,454,339,543,336,539,473,450"/>
+<area shape="poly" id="edge11_Node000005_Node000004" title=" " alt="" coords="422,449,325,476,222,508,136,543,134,538,220,503,323,470,421,444"/>
+<area shape="rect" id="Node000006" href="$classhbchart_1_1_flow_chart_model.html#a8588dfda685eeff74cd3c1efd2cba8d5" title="Clear the model." alt="" coords="221,403,388,443"/>
+<area shape="poly" id="edge12_Node000005_Node000006" title=" " alt="" coords="420,426,389,426,389,420,420,420"/>
+<area shape="poly" id="edge14_Node000007_Node000002" title=" " alt="" coords="247,283,131,225,133,220,249,278"/>
+<area shape="poly" id="edge15_Node000007_Node000007" title=" " alt="" coords="339,275,326,269,304,267,284,269,271,273,267,279,269,287,264,288,262,278,268,269,283,263,304,261,328,264,342,270"/>
+<area shape="poly" id="edge18_Node000008_Node000002" title=" " alt="" coords="420,39,373,37,322,40,270,49,222,65,183,90,150,121,124,154,105,182,100,179,119,151,146,118,180,86,220,61,269,44,321,35,373,32,421,33"/>
+<area shape="poly" id="edge19_Node000008_Node000008" title=" " alt="" coords="555,16,542,10,520,8,499,10,487,15,482,21,484,28,479,29,477,19,484,10,498,5,520,3,543,5,557,11"/>
+<area shape="poly" id="edge20_Node000008_Node000009" title=" " alt="" coords="441,78,371,101,369,96,439,73"/>
+<area shape="poly" id="edge21_Node000009_Node000002" title=" " alt="" coords="236,148,145,183,143,178,234,143"/>
+<area shape="poly" id="edge22_Node000009_Node000009" title=" " alt="" coords="339,85,326,80,304,77,284,79,271,84,267,90,269,97,264,99,262,89,268,80,283,74,304,72,328,74,342,81"/>
+<area shape="poly" id="edge25_Node000011_Node000002" title=" " alt="" coords="421,194,173,202,173,196,421,189"/>
+<area shape="poly" id="edge26_Node000011_Node000011" title=" " alt="" coords="555,155,542,149,520,147,499,149,487,153,482,159,484,167,479,168,477,158,484,149,498,143,520,141,543,144,557,150"/>
+</map>

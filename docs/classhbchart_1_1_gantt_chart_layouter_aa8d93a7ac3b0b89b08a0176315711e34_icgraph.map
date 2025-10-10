@@ -1,0 +1,6 @@
+<map id="hbchart::GanttChartLayouter::layoutTask" name="hbchart::GanttChartLayouter::layoutTask">
+<area shape="rect" id="Node000001" title="Layout the task." alt="" coords="240,29,426,70"/>
+<area shape="poly" id="edge2_Node000001_Node000001" title=" " alt="" coords="371,16,357,10,333,8,310,10,297,15,292,21,294,28,289,29,287,19,294,10,309,5,333,3,358,5,373,11"/>
+<area shape="rect" id="Node000002" href="$classhbchart_1_1_gantt_chart_layouter.html#a7dbf453e08949adddea638bf01f4b61e" title="Layout the chart. This method should be called after the model is set." alt="" coords="5,29,192,70"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="224,52,192,52,192,47,224,47"/>
+</map>

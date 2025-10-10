@@ -1,0 +1,13 @@
+<map id="hbchart::FlowChartEdgeItem::updatePath" name="hbchart::FlowChartEdgeItem::updatePath">
+<area shape="rect" id="Node000001" title="update the connection line path" alt="" coords="722,71,911,111"/>
+<area shape="rect" id="Node000002" href="$classhbchart_1_1_flow_chart_edge_item.html#a8d9d49b8f1174bb0478116462340fd6e" title="draw control points" alt="" coords="486,5,674,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="725,69,656,49,657,44,727,63"/>
+<area shape="rect" id="Node000005" href="$classhbchart_1_1_flow_chart_edge_item.html#aa3f23ed6e649436bc0536b8f3bc3a4b8" title="Set the source node and anchor point direction." alt="" coords="486,71,674,111"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="707,94,675,94,675,88,707,88"/>
+<area shape="rect" id="Node000006" href="$classhbchart_1_1_flow_chart_edge_item.html#a8e2983f0aaa022e19135a8d375b0349d" title="Set the target node and anchor point direction." alt="" coords="486,136,674,177"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="727,119,657,138,656,133,725,113"/>
+<area shape="rect" id="Node000003" href="$classhbchart_1_1_flow_chart_edge_item.html#af8113e9eb22e191a1e8e098d804a30b3" title="update the control points visibility" alt="" coords="242,5,438,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="471,28,438,28,438,23,471,23"/>
+<area shape="rect" id="Node000004" href="$classhbchart_1_1_flow_chart_edge_item.html#a5eaa87d62c725f03075450983bc92636" title="Set the control points of the connection line." alt="" coords="5,5,194,46"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="226,28,194,28,194,23,226,23"/>
+</map>

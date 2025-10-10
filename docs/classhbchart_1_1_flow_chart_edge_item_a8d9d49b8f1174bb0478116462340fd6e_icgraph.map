@@ -1,0 +1,7 @@
+<map id="hbchart::FlowChartEdgeItem::drawControlPoints" name="hbchart::FlowChartEdgeItem::drawControlPoints">
+<area shape="rect" id="Node000001" title="draw control points" alt="" coords="486,5,674,46"/>
+<area shape="rect" id="Node000002" href="$classhbchart_1_1_flow_chart_edge_item.html#af8113e9eb22e191a1e8e098d804a30b3" title="update the control points visibility" alt="" coords="242,5,438,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="471,28,438,28,438,23,471,23"/>
+<area shape="rect" id="Node000003" href="$classhbchart_1_1_flow_chart_edge_item.html#a5eaa87d62c725f03075450983bc92636" title="Set the control points of the connection line." alt="" coords="5,5,194,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="226,28,194,28,194,23,226,23"/>
+</map>

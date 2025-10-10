@@ -1,0 +1,10 @@
+<map id="hbchart::FlowChartModel::adjustVirtualNodes" name="hbchart::FlowChartModel::adjustVirtualNodes">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,39,173,79"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="48,39,46,29,53,20,67,14,89,12,112,14,126,21,124,25,111,20,89,17,69,19,56,24,51,30,53,37"/>
+<area shape="rect" id="Node000002" href="$classhbchart_1_1_flow_chart_model.html#a10132df45ead0ee5cd5cae2927c144eb" title=" " alt="" coords="221,39,388,79"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="173,56,205,56,205,62,173,62"/>
+<area shape="rect" id="Node000003" href="$classhbchart_1_1_flow_chart_model.html#afed89fec3c87b800e8e78c7953694854" title=" " alt="" coords="436,5,603,46"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="388,43,420,38,421,44,389,49"/>
+<area shape="rect" id="Node000004" href="$classhbchart_1_1_flow_chart_model.html#a8de7a3dade03f4a6ec1c66c9fe615b5c" title="Find the layer index of a node." alt="" coords="436,71,603,111"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="389,69,421,74,420,79,388,74"/>
+</map>

@@ -1,0 +1,24 @@
+<map id="hbchart::FlowChartEdgeItem" name="hbchart::FlowChartEdgeItem">
+<area shape="rect" id="Node000001" title="flow graph connection line class" alt="" coords="470,316,658,341"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,75,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="42,46,48,87,56,108,67,126,110,168,158,203,210,233,265,257,374,293,470,313,469,318,372,298,263,262,208,238,155,208,106,172,63,129,51,110,43,88,37,47"/>
+<area shape="rect" id="Node000006" href="$classhbchart_1_1_flow_chart_model.html" title="The FlowChartModel class." alt="" coords="78,102,245,128"/>
+<area shape="poly" id="edge6_Node000006_Node000002" title=" " alt="" coords="69,38,147,99,144,104,65,42"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="694,210,831,236"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="727,246,588,318,586,313,725,241"/>
+<area shape="rect" id="Node000004" href="$classhbchart_1_1_flow_chart_scene.html" title="Flowchart scene." alt="" coords="387,210,557,236"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="492,246,528,290,552,313,548,317,524,293,487,250"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="577,102,698,128"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="611,139,552,180,496,212,493,207,549,175,608,135"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="212,131,437,207,435,212,210,136"/>
+<area shape="poly" id="edge8_Node000006_Node000006" title=" " alt="" coords="262,107,272,115,264,123,246,126,245,121,261,118,266,115,259,111"/>
+<area shape="rect" id="Node000007" href="$structhbchart_1_1_flow_title.html" title="GanttChart Title." alt="" coords="99,5,224,31"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="164,46,164,101,159,101,159,46"/>
+<area shape="rect" id="Node000008" href="$classhbchart_1_1_flow_chart_label.html" title="FlowChart rounded rectangle shape." alt="" coords="390,102,554,128"/>
+<area shape="poly" id="edge9_Node000004_Node000008" title=" " alt="" coords="475,143,475,210,469,210,469,143"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="601,5,722,31"/>
+<area shape="poly" id="edge10_Node000008_Node000009" title=" " alt="" coords="625,41,497,104,495,99,622,36"/>
+<area shape="rect" id="Node000010" href="$classhbchart_1_1_flow_chart_shape_item.html" title="Flowchart shape." alt="" coords="637,152,832,177"/>
+<area shape="poly" id="edge12_Node000010_Node000009" title=" " alt="" coords="679,43,712,101,733,150,728,152,707,103,674,45"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="646,186,620,203,605,224,600,244,598,266,589,293,575,316,570,314,584,291,592,265,595,243,600,221,616,199,643,181"/>
+</map>

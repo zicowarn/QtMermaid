@@ -1,0 +1,5 @@
+<map id="hbchart::FlowChartLayouter::precomputeSubgraphBounds" name="hbchart::FlowChartLayouter::precomputeSubgraphBounds">
+<area shape="rect" id="Node000001" title="Precompute the bounds of the flowchart subgraph." alt="" coords="236,5,432,46"/>
+<area shape="rect" id="Node000002" href="$classhbchart_1_1_flow_chart_layouter.html#ad1b50bb41df7adc2e8db2b14facf9072" title="Apply the layout." alt="" coords="5,5,188,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="220,28,188,28,188,23,220,23"/>
+</map>

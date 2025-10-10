@@ -1,0 +1,15 @@
+<map id="hbchart::GanttChartLayouter::layoutMilestone" name="hbchart::GanttChartLayouter::layoutMilestone">
+<area shape="rect" id="Node000001" title="Layout the milestone." alt="" coords="5,100,192,141"/>
+<area shape="rect" id="Node000002" href="$structhbchart_1_1_time_unit_type.html#a6fbc526a2a1747b448e0bd56207ab57a" title="Convert seconds to model." alt="" coords="250,5,403,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="145,97,239,57,256,50,258,55,241,61,147,102"/>
+<area shape="rect" id="Node000003" href="$classhbchart_1_1_gantt_chart_shape_item.html#ab691b50bd11f4a07f94796d8892635bb" title="Set X limits." alt="" coords="240,71,413,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="192,106,224,101,224,107,192,111"/>
+<area shape="rect" id="Node000004" href="$classhbchart_1_1_gantt_chart_shape_item.html#a727e22a505cc774707398258945c3bf2" title="Get width." alt="" coords="461,100,634,141"/>
+<area shape="poly" id="edge7_Node000001_Node000004" title=" " alt="" coords="192,120,240,120,413,120,445,120,445,125,413,126,240,126,192,125"/>
+<area shape="rect" id="Node000006" href="$structhbchart_1_1_time_scene_ratio.html#a1a33a553eecd6ee6b5f736e02c68f796" title="Convert time to scene units." alt="" coords="242,185,411,226"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="156,139,257,177,255,182,154,144"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="414,100,446,104,445,109,413,105"/>
+<area shape="poly" id="edge5_Node000004_Node000004" title=" " alt="" coords="506,100,504,90,511,81,525,75,548,73,572,76,586,82,584,87,570,81,548,79,527,81,514,85,509,91,511,99"/>
+<area shape="rect" id="Node000005" href="$classhbchart_1_1_gantt_chart_shape_item.html#a49b55422f43bb18508623ba3a79adc53" title="Get height." alt="" coords="682,100,856,141"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="635,118,667,118,667,123,635,123"/>
+</map>

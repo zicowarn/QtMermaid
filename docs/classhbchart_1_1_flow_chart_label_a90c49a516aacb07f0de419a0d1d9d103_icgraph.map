@@ -1,0 +1,11 @@
+<map id="hbchart::FlowChartLabel::getLabel" name="hbchart::FlowChartLabel::getLabel">
+<area shape="rect" id="Node000001" title="Get text." alt="" coords="639,39,803,79"/>
+<area shape="rect" id="Node000002" href="$classhbchart_1_1_flow_chart_label.html#a96f79d5e5631d8158b817a3b88fb7e70" title="Paint." alt="" coords="428,5,591,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="624,46,591,41,592,36,624,41"/>
+<area shape="rect" id="Node000003" href="$classhbchart_1_1_flow_chart_label.html#a10a9101f843e7fe3fdffa23ff2cc121e" title="Adjust size to fit text." alt="" coords="428,71,591,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="624,76,592,81,591,76,624,71"/>
+<area shape="rect" id="Node000004" href="$classhbchart_1_1_flow_chart_label.html#a1f0ec49554fa0416c8204614dfbf2f7a" title="Adjust size to fit text." alt="" coords="217,71,380,111"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="413,94,380,94,380,88,413,88"/>
+<area shape="rect" id="Node000005" href="$classhbchart_1_1_flow_chart_label.html#aedc84535e710231818a64e7ab72e248e" title="Constructor." alt="" coords="5,71,169,111"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="201,94,169,94,169,88,201,88"/>
+</map>

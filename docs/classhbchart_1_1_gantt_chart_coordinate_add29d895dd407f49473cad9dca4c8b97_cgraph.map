@@ -1,0 +1,5 @@
+<map id="hbchart::GanttChartCoordinate::calculateXAxisPrimaryGridLine" name="hbchart::GanttChartCoordinate::calculateXAxisPrimaryGridLine">
+<area shape="rect" id="Node000001" title="Calculate the x&#45;axis primary grid line." alt="" coords="5,5,215,46"/>
+<area shape="rect" id="Node000002" href="$structhbchart_1_1_time_unit_type.html#a5a00ca72474d85613ad5735b9c3bb5f1" title="Convert model to seconds." alt="" coords="263,5,416,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="215,23,248,23,248,28,215,28"/>
+</map>

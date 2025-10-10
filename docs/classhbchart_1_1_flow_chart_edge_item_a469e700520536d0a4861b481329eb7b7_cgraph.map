@@ -1,0 +1,7 @@
+<map id="hbchart::FlowChartEdgeItem::updateArrowHeads" name="hbchart::FlowChartEdgeItem::updateArrowHeads">
+<area shape="rect" id="Node000001" title="Update the arrow heads." alt="" coords="5,39,194,79"/>
+<area shape="rect" id="Node000002" href="$classhbchart_1_1_flow_chart_edge_item.html#af58eb282facdecccc99352eedbf7c67a" title="Calculate the arrow head path." alt="" coords="242,5,430,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="194,43,226,38,227,44,195,48"/>
+<area shape="rect" id="Node000003" href="$classhbchart_1_1_flow_chart_edge_item.html#ad00952a33787ea47f03a77108c79a3bb" title="Get the connection line start point and end point." alt="" coords="242,71,430,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="195,69,227,74,226,79,194,74"/>
+</map>

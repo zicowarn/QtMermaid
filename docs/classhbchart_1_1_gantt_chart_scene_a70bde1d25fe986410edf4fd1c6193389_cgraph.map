@@ -1,0 +1,15 @@
+<map id="hbchart::GanttChartScene::updateMilestones" name="hbchart::GanttChartScene::updateMilestones">
+<area shape="rect" id="Node000001" title="Update the milestones in the scene." alt="" coords="5,104,179,145"/>
+<area shape="rect" id="Node000002" href="$classhbchart_1_1_gantt_chart_scene.html#a7ca713dae72e15fe2846a5bdbb382d15" title="Add a milestone to the scene." alt="" coords="227,71,400,111"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="179,109,211,104,212,109,180,114"/>
+<area shape="rect" id="Node000007" href="$classhbchart_1_1_gantt_chart_scene.html#a60d8492f48900ebd0f7b30511b34b57a" title="Disconnect signals from an." alt="" coords="227,136,400,177"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="180,134,211,139,211,144,179,140"/>
+<area shape="rect" id="Node000003" href="$classhbchart_1_1_gantt_chart_scene.html#afbd0c2772c7248b17b22745fed43671a" title="connect signals to an item" alt="" coords="448,71,621,111"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="400,88,432,88,432,94,400,94"/>
+<area shape="rect" id="Node000004" href="$classhbchart_1_1_gantt_chart_shape_item.html#a4730d31e31b916c0086d2a5372d53581" title="Position changed signal." alt="" coords="669,5,856,46"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="607,68,674,48,675,53,609,73"/>
+<area shape="rect" id="Node000005" href="$structhbchart_1_1_time_scene_ratio.html#ab87076d0ca681c3d358ee125c38a12f2" title="Convert scene units to time." alt="" coords="678,71,847,111"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="622,88,662,88,662,94,622,94"/>
+<area shape="rect" id="Node000006" href="$classhbchart_1_1_gantt_chart_scene.html#a65fa61e0ef82703d09fb60a3adcd7c54" title="Get time scale." alt="" coords="676,136,849,177"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="609,109,675,129,674,134,607,114"/>
+</map>

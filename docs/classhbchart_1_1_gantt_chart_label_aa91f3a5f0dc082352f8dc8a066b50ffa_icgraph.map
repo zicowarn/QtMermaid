@@ -1,0 +1,11 @@
+<map id="hbchart::GanttChartLabel::getLabel" name="hbchart::GanttChartLabel::getLabel">
+<area shape="rect" id="Node000001" title="Get text." alt="" coords="651,39,819,79"/>
+<area shape="rect" id="Node000002" href="$classhbchart_1_1_gantt_chart_label.html#a900d720519523ae9428db6dced247288" title="Paint." alt="" coords="436,5,603,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="635,46,604,41,604,36,636,41"/>
+<area shape="rect" id="Node000003" href="$classhbchart_1_1_gantt_chart_label.html#a2ca1b887aa9fc42860ea3f6d11fda6c3" title="Adjust size to fit text." alt="" coords="436,71,603,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="636,76,604,81,604,76,635,71"/>
+<area shape="rect" id="Node000004" href="$classhbchart_1_1_gantt_chart_label.html#af61d8d3be89a8371d83581264d7cc28d" title="Adjust size to fit text." alt="" coords="221,71,388,111"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="420,94,389,94,389,88,420,88"/>
+<area shape="rect" id="Node000005" href="$classhbchart_1_1_gantt_chart_label.html#ac8ebf46de7f396f77976e3ad30c5628e" title="Constructor." alt="" coords="5,71,173,111"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="205,94,173,94,173,88,205,88"/>
+</map>

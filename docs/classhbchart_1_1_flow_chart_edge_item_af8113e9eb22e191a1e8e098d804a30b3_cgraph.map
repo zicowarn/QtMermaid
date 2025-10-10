@@ -1,0 +1,16 @@
+<map id="hbchart::FlowChartEdgeItem::updateControlPointsVisibility" name="hbchart::FlowChartEdgeItem::updateControlPointsVisibility">
+<area shape="rect" id="Node000001" title="update the control points visibility" alt="" coords="5,39,202,79"/>
+<area shape="rect" id="Node000002" href="$classhbchart_1_1_flow_chart_edge_item.html#a8d9d49b8f1174bb0478116462340fd6e" title="draw control points" alt="" coords="250,39,438,79"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="202,56,234,56,234,62,202,62"/>
+<area shape="rect" id="Node000003" href="$classhbchart_1_1_flow_chart_ctrl_point_item.html#a117166606dad1477bf3bbc0ea821ec7c" title=" " alt="" coords="488,5,672,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="438,43,473,38,473,43,439,48"/>
+<area shape="rect" id="Node000004" href="$classhbchart_1_1_flow_chart_edge_item.html#a18717d942884f02d60a94441cfca0441" title="update the connection line path" alt="" coords="486,71,674,111"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="439,69,471,74,470,79,438,74"/>
+<area shape="rect" id="Node000005" href="$classhbchart_1_1_flow_chart_edge_item.html#ad00952a33787ea47f03a77108c79a3bb" title="Get the connection line start point and end point." alt="" coords="959,41,1147,82"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="675,83,943,66,943,71,675,88"/>
+<area shape="rect" id="Node000006" href="$classhbchart_1_1_flow_chart_edge_item.html#a469e700520536d0a4861b481329eb7b7" title="Update the arrow heads." alt="" coords="722,99,911,139"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="675,100,707,103,707,109,675,105"/>
+<area shape="poly" id="edge7_Node000006_Node000005" title=" " alt="" coords="902,96,951,84,952,89,903,101"/>
+<area shape="rect" id="Node000007" href="$classhbchart_1_1_flow_chart_edge_item.html#af58eb282facdecccc99352eedbf7c67a" title="Calculate the arrow head path." alt="" coords="959,107,1147,147"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="911,120,943,121,943,126,911,125"/>
+</map>

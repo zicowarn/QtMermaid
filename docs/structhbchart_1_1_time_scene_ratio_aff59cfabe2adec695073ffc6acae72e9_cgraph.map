@@ -1,0 +1,7 @@
+<map id="hbchart::TimeSceneRatio::pixelsToTime" name="hbchart::TimeSceneRatio::pixelsToTime">
+<area shape="rect" id="Node000001" title="Convert pixels to time." alt="" coords="5,39,175,79"/>
+<area shape="rect" id="Node000002" href="$structhbchart_1_1_time_scene_ratio.html#a824190284b6461fbcb6649bcd1a0eb3c" title="Convert pixels to scene units." alt="" coords="223,5,392,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="175,43,207,38,208,44,175,49"/>
+<area shape="rect" id="Node000003" href="$structhbchart_1_1_time_scene_ratio.html#ab87076d0ca681c3d358ee125c38a12f2" title="Convert scene units to time." alt="" coords="223,71,392,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="175,69,208,74,207,79,175,74"/>
+</map>

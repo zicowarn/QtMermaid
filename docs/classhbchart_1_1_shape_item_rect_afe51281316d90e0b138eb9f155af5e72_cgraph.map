@@ -1,0 +1,11 @@
+<map id="hbchart::ShapeItemRect::ShapeItemRect" name="hbchart::ShapeItemRect::ShapeItemRect">
+<area shape="rect" id="Node000001" title="Constructor." alt="" coords="5,39,169,79"/>
+<area shape="rect" id="Node000002" href="$classhbchart_1_1_shape_item_rect.html#a72a61a94e38ee3032b754fd79216b251" title="Adjust size to fit text." alt="" coords="233,5,396,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="168,44,217,37,218,42,169,50"/>
+<area shape="rect" id="Node000004" href="$classhbchart_1_1_flow_chart_shape_item.html#a6511ec01289443951e38a21380cb2cb1" title="Constructor." alt="" coords="217,71,412,111"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="169,68,202,72,201,78,168,73"/>
+<area shape="rect" id="Node000003" href="$classhbchart_1_1_flow_chart_shape_item.html#a2895baf5c3dddd88eca025ae38cdeb3a" title="Calculate label size." alt="" coords="460,5,655,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="396,23,444,23,444,28,396,28"/>
+<area shape="rect" id="Node000005" href="$classhbchart_1_1_flow_chart_shape_item.html#a4af6b40f86a2cc6bb3a7d452b3f8582a" title=" " alt="" coords="460,71,655,111"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="413,88,445,88,445,94,413,94"/>
+</map>

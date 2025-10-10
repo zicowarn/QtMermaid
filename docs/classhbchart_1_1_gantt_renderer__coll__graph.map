@@ -1,0 +1,5 @@
+<map id="hbchart::GanttRenderer" name="hbchart::GanttRenderer">
+<area shape="rect" id="Node000001" title="The GanttRenderer class. ihnerits from Renderer." alt="" coords="5,79,163,105"/>
+<area shape="rect" id="Node000002" href="$classhbchart_1_1_renderer.html" title="The interface for the QtMermaid Renderer." alt="" coords="21,5,147,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="87,46,87,79,81,79,81,46"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="hbchart::GanttChartModel::updateSectionInfos" name="hbchart::GanttChartModel::updateSectionInfos">
+<area shape="rect" id="Node000001" title="Update the section infos." alt="" coords="225,5,396,46"/>
+<area shape="rect" id="Node000002" href="$classhbchart_1_1_gantt_chart_model.html#a5443f495ffdf7995fcd60011abeb08b8" title="Get the sections list." alt="" coords="5,5,177,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="209,28,177,28,177,23,209,23"/>
+</map>

@@ -1,0 +1,17 @@
+<map id="hbchart::FlowChartShapeItem" name="hbchart::FlowChartShapeItem">
+<area shape="rect" id="Node000001" title="Flowchart shape." alt="" coords="175,129,370,155"/>
+<area shape="rect" id="Node000003" href="$classhbchart_1_1_shape_item_circle.html" title="Flowchart circle shape." alt="" coords="442,5,612,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="299,117,351,77,417,40,447,29,449,34,419,45,354,82,302,121"/>
+<area shape="rect" id="Node000004" href="$classhbchart_1_1_shape_item_diamond.html" title="Flowchart diamond shape." alt="" coords="434,55,621,80"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="322,121,417,89,459,78,460,84,419,94,323,126"/>
+<area shape="rect" id="Node000005" href="$classhbchart_1_1_shape_item_rect.html" title="Flowchart rectangle shape." alt="" coords="446,104,609,130"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="385,128,445,122,445,128,386,134"/>
+<area shape="rect" id="Node000006" href="$classhbchart_1_1_shape_item_rounded_rect.html" title="Flowchart rounded rectangle shape." alt="" coords="420,153,635,179"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="386,150,419,153,419,159,385,155"/>
+<area shape="rect" id="Node000007" href="$classhbchart_1_1_subgraph_shape_item_rect.html" title="Flowchart subgraph shape." alt="" coords="418,203,636,228"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="324,158,419,189,461,199,459,205,417,194,323,163"/>
+<area shape="rect" id="Node000008" href="$classhbchart_1_1_virtual_node_item.html" title="Flowchart virtual node shape." alt="" coords="444,252,610,278"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="302,163,355,202,419,238,450,249,448,254,417,243,352,207,299,167"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,129,127,155"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="142,140,174,140,174,145,142,145"/>
+</map>

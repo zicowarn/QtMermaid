@@ -1,0 +1,20 @@
+<map id="hbchart::FlowChartConnector" name="hbchart::FlowChartConnector">
+<area shape="rect" id="Node000001" title=" " alt="" coords="324,295,516,321"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="576,5,646,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="629,43,644,84,646,107,640,129,622,160,600,188,547,236,493,273,448,297,446,292,490,268,544,232,596,184,618,157,635,127,640,106,639,85,624,45"/>
+<area shape="rect" id="Node000005" href="$classhbchart_1_1_flow_chart_model.html" title="The FlowChartModel class." alt="" coords="337,102,504,128"/>
+<area shape="poly" id="edge5_Node000005_Node000002" title=" " alt="" coords="574,41,446,104,444,99,572,36"/>
+<area shape="rect" id="Node000003" href="$classhbchart_1_1_flow_chart_scene.html" title="Flowchart scene." alt="" coords="185,199,354,224"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="295,233,342,269,389,292,387,297,339,274,292,237"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="192,102,312,128"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="260,142,270,198,265,199,255,143"/>
+<area shape="poly" id="edge10_Node000001_Node000005" title=" " alt="" coords="423,143,423,295,418,295,418,143"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="375,137,342,154,310,177,284,200,280,196,306,173,339,149,373,132"/>
+<area shape="poly" id="edge7_Node000005_Node000005" title=" " alt="" coords="521,107,531,115,523,123,505,126,504,121,520,118,525,115,518,111"/>
+<area shape="rect" id="Node000006" href="$structhbchart_1_1_flow_title.html" title="GanttChart Title." alt="" coords="358,5,483,31"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="423,46,423,101,418,101,418,46"/>
+<area shape="rect" id="Node000007" href="$classhbchart_1_1_flow_chart_label.html" title="FlowChart rounded rectangle shape." alt="" coords="5,102,169,128"/>
+<area shape="poly" id="edge8_Node000003_Node000007" title=" " alt="" coords="118,134,182,172,236,196,234,201,179,177,115,139"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="26,5,148,31"/>
+<area shape="poly" id="edge9_Node000007_Node000008" title=" " alt="" coords="90,46,90,101,84,101,84,46"/>
+</map>

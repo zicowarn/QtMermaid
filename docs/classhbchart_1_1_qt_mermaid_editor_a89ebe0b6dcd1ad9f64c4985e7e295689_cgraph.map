@@ -1,0 +1,14 @@
+<map id="hbchart::QtMermaidEditor::QtMermaidEditor" name="hbchart::QtMermaidEditor::QtMermaidEditor">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,45,176,86"/>
+<area shape="rect" id="Node000002" href="$classhbchart_1_1_highlighter_factory.html#ad5039594ff3ae5ada7e8617c444282ce" title=" " alt="" coords="450,5,628,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="176,45,223,38,332,28,434,24,434,29,332,34,224,43,177,50"/>
+<area shape="rect" id="Node000003" href="$namespacehbchart.html#ac24fd30b1215fab37d93d858dd68a029" title="Initializes the registries." alt="" coords="224,53,402,78"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="176,63,208,63,208,68,176,68"/>
+<area shape="rect" id="Node000004" href="$classhbchart_1_1_qt_mermaid_editor.html#a32e3fa676050c5af6668f66a168603ad" title=" " alt="" coords="228,103,398,143"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="172,84,217,96,216,101,171,89"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="373,100,401,89,483,51,485,56,403,93,375,105"/>
+<area shape="rect" id="Node000005" href="$classhbchart_1_1_parser_factory.html#affea4550dc386d4664312e03012551e2" title=" " alt="" coords="462,92,616,133"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="398,116,446,114,447,119,398,122"/>
+<area shape="rect" id="Node000006" href="$classhbchart_1_1_renderer_factory.html#a21c9b1bc5c76d0863ad133f405856cdc" title="Create a chart renderer." alt="" coords="454,157,624,198"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="399,141,440,151,439,156,397,146"/>
+</map>

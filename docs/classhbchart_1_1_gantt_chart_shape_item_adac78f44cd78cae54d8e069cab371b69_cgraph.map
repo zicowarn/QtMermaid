@@ -1,0 +1,5 @@
+<map id="hbchart::GanttChartShapeItem::boundingRect" name="hbchart::GanttChartShapeItem::boundingRect">
+<area shape="rect" id="Node000001" title="Bounding rectangle." alt="" coords="5,5,179,46"/>
+<area shape="rect" id="Node000002" href="$classhbchart_1_1_gantt_chart_shape_item.html#ac1d8b20232d9776dcf147196ce2beb14" title="Inner rectangle." alt="" coords="227,5,400,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="179,23,211,23,211,28,179,28"/>
+</map>

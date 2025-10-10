@@ -1,0 +1,7 @@
+<map id="hbchart::CoreFactory::create" name="hbchart::CoreFactory::create">
+<area shape="rect" id="Node000001" title="Create a chart core." alt="" coords="211,39,355,79"/>
+<area shape="rect" id="Node000002" href="$classhbchart_1_1_flow_renderer.html#a634b8e357ca33589f720c102152c7420" title="FlowRenderer constructor." alt="" coords="7,5,161,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="195,47,161,41,161,36,196,42"/>
+<area shape="rect" id="Node000003" href="$classhbchart_1_1_gantt_renderer.html#aa9e7aa103a3882d6e6b8c58f27826a18" title="GanttRenderer constructor." alt="" coords="5,71,163,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="196,76,164,81,163,76,195,70"/>
+</map>

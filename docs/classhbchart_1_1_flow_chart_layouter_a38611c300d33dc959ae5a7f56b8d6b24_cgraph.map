@@ -1,0 +1,5 @@
+<map id="hbchart::FlowChartLayouter::updateSceneBounds" name="hbchart::FlowChartLayouter::updateSceneBounds">
+<area shape="rect" id="Node000001" title="Update the scene bounds." alt="" coords="5,5,188,46"/>
+<area shape="rect" id="Node000002" href="$classhbchart_1_1_flow_chart_layouter.html#a9376e8d1b4d3faa516f3fb4c92f9f4b2" title="Compute the bounds from layers." alt="" coords="236,5,428,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="188,23,220,23,220,28,188,28"/>
+</map>

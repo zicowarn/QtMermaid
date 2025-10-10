@@ -1,0 +1,5 @@
+<map id="hbchart::GanttChartXAxisGridLine::setExtendGuideLine" name="hbchart::GanttChartXAxisGridLine::setExtendGuideLine">
+<area shape="rect" id="Node000001" title="Set the extend guide line or not." alt="" coords="5,5,200,46"/>
+<area shape="rect" id="Node000002" href="$classhbchart_1_1_gantt_chart_coord_path.html#a38d2c3bf5fb11bd7ab51e60a682697db" title=" " alt="" coords="248,5,464,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="200,23,232,23,232,28,200,28"/>
+</map>
